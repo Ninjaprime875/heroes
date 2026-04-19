@@ -1,7 +1,7 @@
 ---
 title: "Illuminate Heritage: Lightscapes of Lexington"
-description: "A Youth STEAM Initiative Event"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
+description: "A 5/30/26 Youth STEAM Initiative Event"
+featured_image: '/images/illumination-night-2026.png'
 ---
 
 ## About the Event
@@ -11,6 +11,7 @@ Main event description.
 ## When & Where
 
 **Date:** May 30, 2026
+
 **Location:** Lexington, MA, Depot Square
 
 ## Similar Past Events:
