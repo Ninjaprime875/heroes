@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Illuminate Heritage: Lightscapes of Lexington</title>
-    <link>http://localhost:1313/heroes/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Illuminate Heritage: Lightscapes of Lexington</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#39;https://youthsteaminitiative.org&#39; class=&#39;f4 fw4 white-70 hover-white no-underline tc&#39;&gt;©Youth STEAM Initiative&lt;/a&gt;</copyright>
-    <atom:link href="http://localhost:1313/heroes/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
