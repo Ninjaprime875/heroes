@@ -2,13 +2,13 @@ baseURL = 'https://heroes.youthsteaminitiative.org/'
 languageCode = 'en-us'
 title = 'Illuminate Heritage: Lightscapes of Lexington'
 theme = 'ananke'
-copyright = "<a href='https://youthsteaminitiative.org' class='f4 fw4 white-70 hover-white no-underline tc'>©Youth STEAM Initiative</a>"
+copyright = "<a href='https://youthsteaminitiative.org' class='f4 fw4 white-70 hover-white no-underline tc'>©Youth STEAM Initiative 2026</a>"
 
 [params]
   mainSections = []
 
 [params.ananke.social.follow]
-  networks = ["youtube", "instagram", "facebook"]
+  networks = ["youtube", "instagram", "facebook", "email"]
 
 [params.ananke.social.youtube]
   profilelink = "https://www.youtube.com/@YouthSTEAMInitiative"
@@ -18,3 +18,8 @@ copyright = "<a href='https://youthsteaminitiative.org' class='f4 fw4 white-70 h
 
 [params.ananke.social.facebook]
   profilelink = "https://www.facebook.com/people/Youth-STEAM-Initiative/61569154958515/"
+
+[params.ananke.social.email]
+  profilelink = "mailto:lyst.connect@gmail.com"
+[markup.goldmark.renderer]
+  unsafe = true
