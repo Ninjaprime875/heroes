@@ -27,10 +27,9 @@ And the next step could be yours.
 
 ## Want to submit people or groups that you think are community heroes of Lexington?
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdIVaf6AVN4JHykL7RTDT-LYqwyhyeOFH0PQR_ZUgMPtPT0Fg/viewform?embedded=true" 
-  width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">
+  width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">
   Loading…
 </iframe>
-<br>
 
 ## Similar Past Events:
 
@@ -42,16 +41,25 @@ And the next step could be yours.
 
 **Lex Lux 2025:** January 11, 2025
 ![Lex Lux 2025](./images/lexLuxProjection3.jpg)
+
 <br>
 
 ## Directors / Mentors:
 
-**Ana Meli Olivo** is a visual development artist and writer working in animation and games. She holds a BFA in Animation from the Rhode Island School of Design and is pursuing graduate studies in creative writing at Harvard Extension School. She teaches digital art and animation at Luckie Art Studio in Lexington.
-![Ana Meli](./images/anameli.png)
+<div class="flex flex-wrap justify-center mt4">
 
-<br>
+  <div class="w-50-l w-100 pa3 tc">
+    <img src="./images/anameli.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Ana Meli Olivo" />
+    <h3 class="f4 fw6 mt3 mb1">Ana Meli Olivo</h3>
+    <p class="f5 lh-copy mid-gray">Ana Meli Olivo is a visual development artist and writer working in animation and games. She holds a BFA in Animation from the Rhode Island School of Design and is pursuing graduate studies in creative writing at Harvard Extension School. She teaches digital art and animation at Luckie Art Studio in Lexington.</p>
+  </div>
 
-**Ian Wang** is a filmmaker and stop-motion animator from Lexington, Massachusetts. Graduating from the Rhode Island School of Design (RISD) in May 2025, with a major in Film, Animation, and Video, he has worked as a director and technician for the New Legacy Cultural Center, Lexington, MA, where he produced two award-winning short films.
-![Ian Wang](./images/ianwang.png)
+  <div class="w-50-l w-100 pa3 tc">
+    <img src="./images/ianwang.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Ian Wang" />
+    <h3 class="f4 fw6 mt3 mb1">Ian Wang</h3>
+    <p class="f5 lh-copy mid-gray">Ian Wang is a filmmaker and stop-motion animator from Lexington, Massachusetts. Graduating from the Rhode Island School of Design (RISD) in May 2025, with a major in Film, Animation, and Video, he has worked as a director and technician for the New Legacy Cultural Center, Lexington, MA, where he produced two award-winning short films.</p>
+  </div>
+
+</div>
 
 
