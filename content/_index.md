@@ -27,7 +27,7 @@ And the next step could be yours.
 
 ## Want to submit people or groups that you think are community heroes of Lexington?
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdIVaf6AVN4JHykL7RTDT-LYqwyhyeOFH0PQR_ZUgMPtPT0Fg/viewform?embedded=true" 
-  width="640" height="400" frameborder="0" marginheight="0" marginwidth="0">
+  width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">
   Loading…
 </iframe>
 
