@@ -26,10 +26,12 @@ And the next step could be yours.
 <br>
 
 ## Want to submit people or groups that you think are community heroes of Lexington?
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdIVaf6AVN4JHykL7RTDT-LYqwyhyeOFH0PQR_ZUgMPtPT0Fg/viewform?embedded=true" 
-  width="640" height="600" frameborder="0" marginheight="0" marginwidth="0">
-  Loading…
-</iframe>
+<div style="position: relative; width: 100%; max-width: 640px; margin: 0 auto; padding-bottom: 93.75%; height: 0; overflow: hidden;">
+  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdIVaf6AVN4JHykL7RTDT-LYqwyhyeOFH0PQR_ZUgMPtPT0Fg/viewform?embedded=true" 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" frameborder="0" marginheight="0" marginwidth="0">
+    Loading…
+  </iframe>
+</div>
 
 ## Similar Past Events:
 
@@ -61,5 +63,16 @@ And the next step could be yours.
   </div>
 
 </div>
+
+<br>
+
+## Funding / Grant:
+![Community Endowment of Lexington](./images/CEL_10Years_Final.png)
+
+<br>
+
+**Community Endowment of Lexington** [https://www.communityfoundationmw.org/funds-giving/town-funds/community-endowment-of-lexington/](https://www.communityfoundationmw.org/funds-giving/town-funds/community-endowment-of-lexington/)
+
+"The Community Endowment of Lexington enhances the quality of life for Lexington citizens. CEL awards grants to nonprofits and town agencies working in the areas of health and human services, arts and culture, the environment, and community building; provides ways for donors to give back and leave a legacy; and encourages innovative and collaborative solutions to issues facing Lexington, MA."
 
 
