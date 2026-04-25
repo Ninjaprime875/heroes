@@ -23,3 +23,18 @@ copyright = "<a href='https://youthsteaminitiative.org' class='f4 fw4 white-70 h
   profilelink = "mailto:lyst.connect@gmail.com"
 [markup.goldmark.renderer]
   unsafe = true
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "About Us"
+  url = "/about/"
+  weight = 2
+
+[[menu.main]]
+  name = "Sponsors"
+  url = "/sponsors/"
+  weight = 3
