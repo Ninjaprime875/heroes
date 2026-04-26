@@ -34,6 +34,16 @@ featured_image: "/images/illumination-night-2026.png"
 
 ---
 
+## Music Team
+
+<div class="w-100 pa3 tc">
+    <img src="/images/JiaweiLiu2.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Jiawei Liu" />
+    <h3 class="f4 fw6 mt2 mb1">Jiawei Liu</h3>
+    <p class="f5 mid-gray">Music Team Director — Youth STEAM Initiative</p>
+  </div>
+
+---
+
 ## Mentors
 
 <div class="flex flex-wrap justify-center mt3 mb4">
@@ -81,18 +91,6 @@ featured_image: "/images/illumination-night-2026.png"
   </div>
 
 </div>
-
----
-
-## Music Team
-
-<div class="w-100 pa3 tc">
-    <img src="/images/JiaweiLiu2.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Jiawei Liu" />
-    <h3 class="f4 fw6 mt2 mb1">Jiawei Liu</h3>
-    <p class="f5 mid-gray">Music Team Director — Youth STEAM Initiative</p>
-  </div>
-
----
 
 ## Community Partners
 
