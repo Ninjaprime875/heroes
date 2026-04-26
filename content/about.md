@@ -39,7 +39,7 @@ featured_image: "/images/illumination-night-2026.png"
 <div class="w-100 pa3 tc">
     <img src="/images/JiaweiLiu2.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Jiawei Liu" />
     <h3 class="f4 fw6 mt2 mb1">Jiawei Liu</h3>
-    <p class="f5 mid-gray">Music Team Director — Youth STEAM Initiative</p>
+    <p class="f5 mid-gray">Music Team Director: Youth STEAM Initiative</p>
   </div>
 
 ---
@@ -61,9 +61,11 @@ featured_image: "/images/illumination-night-2026.png"
   </div>
 
   <div class="w-50-l w-100 pa3 tc">
-    <img src="/images/jeannielu.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Jeannie Lu" />
+    <img src="/images/jeannie.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Jeannie Lu" />
     <h3 class="f4 fw6 mt3 mb1">Jeannie Lu</h3>
-    <p class="f5 lh-copy mid-gray">Bio coming soon.</p>
+    <p class="f5 lh-copy mid-gray">Jeannie Lu is a Principal Software Engineer at Middleby, where she develops IoT solutions for commercial properties and connected kitchens. Prior to Middleby, she was a founding team member of Mazu Networks where she developed network infrastructure software. In her spare time, she volunteered as a FLL robotics coach in MIT Lincoln Lab’s outreach program for 5 years.
+
+</p>
   </div>
 
   <div class="w-50-l w-100 pa3 tc">
@@ -92,18 +94,18 @@ featured_image: "/images/illumination-night-2026.png"
 
 </div>
 
-## Community Partners
+---
 
-<div class="flex flex-wrap justify-center mt3 mb4">
-  <div class="w-50-l w-100 pa3 tc">
-    <img src="/images/munroe.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Munroe Center for the Arts" />
-    <h3 class="f4 fw6 mt2 mb1">Munroe Center for the Arts</h3>
-    <p class="f5 mid-gray">First-Level Partner</p>
-  </div>
-  <div class="w-50-l w-100 pa3 tc">
-    <img src="/images/lyceum.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Lexington Lyceum" />
-    <h3 class="f4 fw6 mt2 mb1">Lexington Lyceum</h3>
-    <p class="f5 mid-gray">First-Level Partner</p>
-  </div>
-</div>
+## Past Events
+
+**Illumination Night 2026:** January 30, 2026
+![Illumination Night 2026](/images/illumination-night-2026-2.png)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RTzTG9UK4ic?si=8bdPp0CcypXH-j5f&amp;controls=0&amp;start=190" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+**Diwali:** November 15, 2025
+![Diwali 2025](/images/lexLuxProjection.jpg)
+
+**Lex Lux 2025:** January 11, 2025
+![Lex Lux 2025](/images/lexLuxProjection3.jpg)
 
