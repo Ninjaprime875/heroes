@@ -39,7 +39,7 @@ featured_image: "/images/illumination-night-2026.png"
 <div class="w-100 pa3 tc">
     <img src="/images/JiaweiLiu2.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Jiawei Liu" />
     <h3 class="f4 fw6 mt2 mb1">Jiawei Liu</h3>
-    <p class="f5 mid-gray">Music Team Director: Youth STEAM Initiative</p>
+    <p class="f5 mid-gray">Music Team Director, Violin</p>
   </div>
 
 ---
@@ -55,7 +55,7 @@ featured_image: "/images/illumination-night-2026.png"
   </div>
 
   <div class="w-50-l w-100 pa3 tc">
-    <img src="/images/ianwang.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Ian Wang" />
+    <img src="/images/ianwang2.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Ian Wang" />
     <h3 class="f4 fw6 mt3 mb1">Ian Wang</h3>
     <p class="f5 lh-copy mid-gray">Filmmaker and stop-motion animator from Lexington, MA. Graduated from RISD in May 2025 with a major in Film, Animation, and Video. Produced two award-winning short films for the New Legacy Cultural Center.</p>
   </div>
