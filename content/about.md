@@ -4,11 +4,11 @@ description: "The Team Behind Illuminate Heritage: Lightscapes of Lexington"
 featured_image: "/images/illumination-night-2026.png"
 ---
 
-## Youth STEAM Initiative Team
-
 <div class="tc mb4">
   <img src="/images/Team logo.png" style="max-width:200px;" alt="Youth STEAM Initiative Logo" />
 </div>
+
+## Projection Mapping Team
 
 <div class="flex flex-wrap justify-center mt3 mb4">
 
