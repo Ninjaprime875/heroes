@@ -13,20 +13,20 @@ featured_image: "/images/illumination-night-2026.png"
 <div class="flex flex-wrap justify-center mt3 mb4">
 
   <div class="w-third-l w-100 pa3 tc">
-    <img src="/images/StephenYang2.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Stephen" />
-    <h3 class="f4 fw6 mt3 mb1">Stephen</h3>
+    <img src="/images/StephenYang2.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Stephen Yang" />
+    <h3 class="f4 fw6 mt3 mb1">Stephen Yang</h3>
     <p class="f5 mid-gray">Team Lead</p>
   </div>
 
   <div class="w-third-l w-100 pa3 tc">
-    <img src="/images/Trenton_Fan.webp" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Trenton" />
-    <h3 class="f4 fw6 mt3 mb1">Trenton</h3>
+    <img src="/images/Trenton_Fan.webp" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Trenton Fan" />
+    <h3 class="f4 fw6 mt3 mb1">Trenton Fan</h3>
     <p class="f5 mid-gray">Co-Lead</p>
   </div>
 
   <div class="w-third-l w-100 pa3 tc">
-    <img src="/images/Angelina.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Angelina" />
-    <h3 class="f4 fw6 mt3 mb1">Angelina</h3>
+    <img src="/images/Angelina.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Angelina Ding" />
+    <h3 class="f4 fw6 mt3 mb1">Angelina Ding</h3>
     <p class="f5 mid-gray">Co-Lead</p>
   </div>
 
@@ -36,11 +36,21 @@ featured_image: "/images/illumination-night-2026.png"
 
 ## Music Team
 
-<div class="w-100 pa3 tc">
+<div class="flex flex-wrap justify-center mt3 mb4">
+
+  <div class="w-third-l w-100 pa3 tc">
     <img src="/images/JiaweiLiu2.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Jiawei Liu" />
-    <h3 class="f4 fw6 mt2 mb1">Jiawei Liu</h3>
-    <p class="f5 mid-gray">Music Team Director, Violin</p>
+    <h3 class="f4 fw6 mt3 mb1">Jiawei Liu</h3>
+    <p class="f5 mid-gray">Director, Violin</p>
   </div>
+
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/isabella.webp" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Isabella Li" />
+    <h3 class="f4 fw6 mt3 mb1">Isabella Li</h3>
+    <p class="f5 mid-gray">Piano</p>
+  </div>
+
+</div>
 
 ---
 

@@ -49,11 +49,11 @@ Know some group or someone whose everyday actions make Lexington stronger? Submi
   <div class="w-50-l w-100 pa3 tc">
     <img src="/images/munroe.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Munroe Center for the Arts" />
     <h3 class="f4 fw6 mt2 mb1">Munroe Center for the Arts</h3>
-    <p class="f5 mid-gray">First-Level Partner</p>
+    <a href="https://www.munroecenter.org/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
   </div>
   <div class="w-50-l w-100 pa3 tc">
     <img src="/images/lyceum.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Lexington Lyceum" />
     <h3 class="f4 fw6 mt2 mb1">Lexington Lyceum</h3>
-    <p class="f5 mid-gray">First-Level Partner</p>
+    <a href="https://www.lexlyceum.org/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
   </div>
 </div>
