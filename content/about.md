@@ -1,7 +1,7 @@
 ---
 title: "About Us"
 description: "The Team Behind Illuminate Heritage: Lightscapes of Lexington"
-featured_image: "/images/illumination-night-2026.png"
+featured_image: "/images/SettingUp.png"
 ---
 
 <div class="tc mb4">
@@ -39,7 +39,7 @@ featured_image: "/images/illumination-night-2026.png"
 <div class="flex flex-wrap justify-center mt3 mb4">
 
   <div class="w-third-l w-100 pa3 tc">
-    <img src="/images/JiaweiLiu2.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Jiawei Liu" />
+    <img src="/images/jiawei.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Jiawei Liu" />
     <h3 class="f4 fw6 mt3 mb1">Jiawei Liu</h3>
     <p class="f5 mid-gray">Director, Violin</p>
   </div>
@@ -48,6 +48,36 @@ featured_image: "/images/illumination-night-2026.png"
     <img src="/images/isabella.webp" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Isabella Li" />
     <h3 class="f4 fw6 mt3 mb1">Isabella Li</h3>
     <p class="f5 mid-gray">Piano</p>
+  </div>
+
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/JasmineGu.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Jasmine Gu" />
+    <h3 class="f4 fw6 mt3 mb1">Jasmine Gu</h3>
+    <p class="f5 mid-gray">Violin</p>
+  </div>
+
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/Trenton_Fan.webp" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Trenton Fan" />
+    <h3 class="f4 fw6 mt3 mb1">Trenton Fan</h3>
+    <p class="f5 mid-gray">Violin</p>
+  </div>
+
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/Angelina.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Angelina Ding" />
+    <h3 class="f4 fw6 mt3 mb1">Angelina Ding</h3>
+    <p class="f5 mid-gray">Piano</p>
+  </div>
+
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/WilliamYang.jpeg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="William Yang" />
+    <h3 class="f4 fw6 mt3 mb1">William Yang</h3>
+    <p class="f5 mid-gray">Cello</p>
+  </div>
+
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/EmmaHe.jpeg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Emma He" />
+    <h3 class="f4 fw6 mt3 mb1">Emma He</h3>
+    <p class="f5 mid-gray">Flute</p>
   </div>
 
 </div>
