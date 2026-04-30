@@ -1,7 +1,7 @@
 ---
 title: "Sponsors"
 description: "Support Illuminate Heritage: Lightscapes of Lexington"
-featured_image: '/images/lexluxprojection2.jpg'
+featured_image: '/images/lexLuxProjection2.jpg'
 ---
 
 We invite businesses, families, and community partners to support this youth-led public celebration honoring the people and groups whose everyday contributions strengthen Lexington through art, technology, storytelling, and civic pride.
