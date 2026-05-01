@@ -68,5 +68,3 @@ Know some group or someone whose everyday actions make Lexington stronger? Submi
   <p class="f5 lh-copy measure center mid-gray">"The Community Endowment of Lexington enhances the quality of life for Lexington citizens. CEL awards grants to nonprofits and town agencies working in the areas of health and human services, arts and culture, the environment, and community building."</p>
   <a href="https://www.communityfoundationmw.org/funds-giving/town-funds/community-endowment-of-lexington/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
 </div>
-
-<br>
