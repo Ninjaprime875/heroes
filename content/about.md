@@ -109,9 +109,8 @@ featured_image: "/images/SettingUp.png"
   </div>
 
   <div class="w-50-l w-100 pa3 tc">
-    <img src="/images/stellashen.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Stella Shen" />
+    <img src="/images/stella.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Stella Shen" />
     <h3 class="f4 fw6 mt3 mb1">Stella Shen</h3>
-    <p class="f5 lh-copy mid-gray">Bio coming soon.</p>
   </div>
 
   <div class="w-50-l w-100 pa3 tc">
@@ -121,15 +120,15 @@ featured_image: "/images/SettingUp.png"
   </div>
 
   <div class="w-50-l w-100 pa3 tc">
-    <img src="/images/markmanasas.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Mark Manasas" />
+    <img src="/images/mark.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Mark Manasas" />
     <h3 class="f4 fw6 mt3 mb1">Mark Manasas</h3>
-    <p class="f5 lh-copy mid-gray">Bio coming soon.</p>
+    <!--<p class="f5 lh-copy mid-gray">Bio coming soon.</p>-->
   </div>
 
   <div class="w-50-l w-100 pa3 tc">
-    <img src="/images/cristinaburwell.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Cristina Burwell" />
+    <img src="/images/cristina.jpeg" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Cristina Burwell" />
     <h3 class="f4 fw6 mt3 mb1">Cristina Burwell</h3>
-    <p class="f5 lh-copy mid-gray">Bio coming soon.</p>
+    <!--<p class="f5 lh-copy mid-gray">Bio coming soon.</p>-->
   </div>
 
 </div>

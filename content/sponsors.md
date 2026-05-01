@@ -10,6 +10,15 @@ We invite businesses, families, and community partners to support this youth-led
 
 ## Our Sponsors
 
+<div class="flex flex-wrap justify-center mt3 mb4">
+  <div class="w-50-l w-100 pa3 tc">
+    <img src="/images/caellia.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Caellia Logo" />
+    <h3 class="f4 fw6 mt2 mb1">Caellia</h3>
+    <a href="https://caellia.com/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
+  </div>
+</div>
+
+<!--
 ### 🏅 Platinum Sponsors
 
 *Be the first Platinum Sponsor! [Contact us](mailto:lyst.connect@gmail.com) to learn more.*
@@ -99,6 +108,8 @@ We invite businesses, families, and community partners to support this youth-led
   </div>
 
 </div>
+
+-->
 
 <br>
 
