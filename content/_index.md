@@ -1,7 +1,7 @@
 ---
 title: "Illuminate Heritage: Lightscapes of Lexington"
 description: "Citizen Heroes of Lexington Projection Mapping Event"
-featured_image: '/images/illumination-night-2026.png'
+featured_image: "/images/illumination-night-2026.png"
 ---
 
 ## About the Event
@@ -14,7 +14,7 @@ Through a series of visual scenes, from quiet moments of need to acts of service
 
 As the projections unfold, one message emerges:
 
-*It starts with a choice. And the next step could be yours.*
+_It starts with a choice. And the next step could be yours._
 
 <br>
 
@@ -56,6 +56,19 @@ Know some group or someone whose everyday actions make Lexington stronger? Submi
     <h3 class="f4 fw6 mt2 mb1">Lexington Lyceum</h3>
     <a href="https://www.lexlyceum.org/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
   </div>
+</div>
+
+---
+
+### Gold Sponsors
+
+<div class="flex flex-wrap justify-center mt3 mb4">
+  <div class="w-50-l w-100 pa3 tc">
+    <img src="/images/caellia.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Caellia Logo" />
+    <h3 class="f4 fw6 mt2 mb1">Caellia</h3>
+    <a href="https://caellia.com/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
+  </div>
+
 </div>
 
 ---

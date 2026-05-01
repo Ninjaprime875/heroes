@@ -10,6 +10,8 @@ We invite businesses, families, and community partners to support this youth-led
 
 ## Our Sponsors
 
+### 🥇 Gold Sponsors
+
 <div class="flex flex-wrap justify-center mt3 mb4">
   <div class="w-50-l w-100 pa3 tc">
     <img src="/images/caellia.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Caellia Logo" />
@@ -17,17 +19,6 @@ We invite businesses, families, and community partners to support this youth-led
     <a href="https://caellia.com/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
   </div>
 </div>
-
-<!--
-### 🏅 Platinum Sponsors
-
-*Be the first Platinum Sponsor! [Contact us](mailto:lyst.connect@gmail.com) to learn more.*
-
----
-
-### 🥇 Gold Sponsors
-
-*Be the first Gold Sponsor! [Contact us](mailto:lyst.connect@gmail.com) to learn more.*
 
 ---
 
@@ -37,17 +28,10 @@ We invite businesses, families, and community partners to support this youth-led
 
 ---
 
-### 🥉 Community Sponsors
+### 🥉 Bronze Sponsors
 
 *Be the first Community Sponsor! [Contact us](mailto:lyst.connect@gmail.com) to learn more.*
 
----
-
-### 💛 Friends of the Event
-
-*Be the first Friend of the Event! [Contact us](mailto:lyst.connect@gmail.com) to learn more.*
-
----
 
 <br>
 
@@ -55,61 +39,40 @@ We invite businesses, families, and community partners to support this youth-led
 
 <div class="flex flex-wrap justify-center mt3 mb4">
 
-  <div class="w-50-l w-100 pa3">
-    <div class="ba b--light-silver pa3 br2 h-100">
-      <h3 class="f3 fw7 mt0" style="color:#b5a642;">🏅 Platinum: $2,000+</h3>
-      <ul class="f5 lh-copy">
-        <li>Highest logo placement on promotional materials</li>
-        <li>Exclusive 30-second featured sponsor display during projection mapping show</li>
-        <li>Featured website sponsorship placement</li>
-        <li>Logo, name, website link, and QR code</li>
-        <li>Recognition during opening remarks and event</li>
-      </ul>
-    </div>
-  </div>
 
   <div class="w-50-l w-100 pa3">
     <div class="ba b--light-silver pa3 br2 h-100">
       <h3 class="f3 fw7 mt0" style="color:#CFB53B;">🥇 Gold: $1,000+</h3>
       <ul class="f5 lh-copy">
-        <li>Major logo placement on website and flyer</li>
-        <li>Recognition during opening remarks</li>
-        <li>Event signage acknowledgment</li>
+        <li>Major logo placement on website, flyers, and event signage</li>
+        <li>Exclusive 30-second display during the projection mapping show</li>
+        <li>Featured website placement with QR code and shout-outs during opening remarks.</li>
       </ul>
     </div>
   </div>
 
   <div class="w-50-l w-100 pa3">
     <div class="ba b--light-silver pa3 br2 h-100">
-      <h3 class="f3 fw7 mt0" style="color:#A8A9AD;">🥈 Silver: $500+</h3>
+      <h3 class="f3 fw7 mt0" style="color:#A8A9AD;">🥈 Silver: $500-999</h3>
       <ul class="f5 lh-copy">
-        <li>Logo on website and signage</li>
-        <li>Public thank-you recognition</li>
+        <li>Logo included on the event website and physical signage</li>
+        <li>Formal recognition during the opening remarks</li>
+        <li>Name and link listed on the official sponsor page</li>
       </ul>
     </div>
   </div>
 
   <div class="w-50-l w-100 pa3">
     <div class="ba b--light-silver pa3 br2 h-100">
-      <h3 class="f3 fw7 mt0" style="color:#cd7f32;">🥉 Community: $250+</h3>
+      <h3 class="f3 fw7 mt0" style="color:#b5a642;">🥉 Bronze: $100-499</h3>
       <ul class="f5 lh-copy">
-        <li>Name listed on sponsor page and acknowledgments</li>
+        <li>Name listed in the supporter appreciation section and sponsor page</li>
+        <li>Inclusion in the collective public thank-you recognition</li>
       </ul>
     </div>
   </div>
-
-  <div class="w-50-l w-100 pa3">
-    <div class="ba b--light-silver pa3 br2 h-100">
-      <h3 class="f3 fw7 mt0">💛 Friend of the Event: $100+</h3>
-      <ul class="f5 lh-copy">
-        <li>Name listed in supporter appreciation section</li>
-      </ul>
-    </div>
-  </div>
-
 </div>
 
--->
 
 <br>
 
