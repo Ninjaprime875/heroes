@@ -22,7 +22,7 @@ As the projections unfold, one message emerges:
 
 **Date:** May 30, 2026
 
-**Time:** 6:00 PM – 9:00 PM
+**Time:** 8:00 PM – 9:00 PM
 
 **Location:** Depot Square, Lexington, MA
 
