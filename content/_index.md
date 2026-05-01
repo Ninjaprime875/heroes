@@ -6,7 +6,7 @@ featured_image: '/images/illumination-night-2026.png'
 
 ## About the Event
 
-On May 30, students from the [Youth STEAM Initiative](https://youthsteaminitiative.org) will present "Illuminate Heritage: Lightscapes of Lexington," an immersive projection mapping experience that transforms local architecture into a living story of community at the Lexington Depot from 6:00 PM to 9:00 PM.
+On May 30, students from the [Youth STEAM Initiative](https://youthsteaminitiative.org) will present "Illuminate Heritage: Lightscapes of Lexington," an immersive projection mapping experience that transforms local architecture into a living story of community at the Lexington Depot from 8:00 PM to 9:00 PM.
 
 Guided by a Lexington-based university professor, students use light, animation, and real community imagery to explore a simple idea: what does it mean to step forward?
 
