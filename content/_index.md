@@ -57,3 +57,16 @@ Know some group or someone whose everyday actions make Lexington stronger? Submi
     <a href="https://www.lexlyceum.org/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
   </div>
 </div>
+
+---
+
+## Grants & Funding
+
+<div class="tc mt4 mb4">
+  <img src="/images/CEL_10Years_Final.png" style="max-width:200px;" alt="Community Endowment of Lexington" />
+  <h3 class="f4 fw6 mt3">Community Endowment of Lexington</h3>
+  <p class="f5 lh-copy measure center mid-gray">"The Community Endowment of Lexington enhances the quality of life for Lexington citizens. CEL awards grants to nonprofits and town agencies working in the areas of health and human services, arts and culture, the environment, and community building."</p>
+  <a href="https://www.communityfoundationmw.org/funds-giving/town-funds/community-endowment-of-lexington/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
+</div>
+
+<br>
