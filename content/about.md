@@ -6,6 +6,7 @@ featured_image: "/images/SettingUp.png"
 
 <div class="tc mb4">
   <img src="/images/Team logo.png" style="max-width:200px;" alt="Youth STEAM Initiative Logo" />
+  <img src="/images/Logo_Transparent.png" style="max-width:200px;" alt="Illuminate Heritage: Lightscapes of Lexington Event Logo" />
 </div>
 
 ## Projection Mapping Team
@@ -78,6 +79,19 @@ featured_image: "/images/SettingUp.png"
     <img src="/images/EmmaHe.jpeg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Emma He" />
     <h3 class="f4 fw6 mt3 mb1">Emma He</h3>
     <p class="f5 mid-gray">Flute</p>
+  </div>
+
+</div>
+
+---
+
+## Proposal Lead (CEL Grant)
+
+<div class="flex flex-wrap justify-center mt3 mb4">
+
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/JustinWang.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Justin Wang" />
+    <h3 class="f4 fw6 mt3 mb1">Justin Wang</h3>
   </div>
 
 </div>

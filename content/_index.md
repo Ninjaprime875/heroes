@@ -43,6 +43,23 @@ Know some group or someone whose everyday actions make Lexington stronger? Submi
 
 ---
 
+### Event Flyer
+<img src = "/images/flyer.png" alt = "Event flyer" style="width: 400px"/>
+
+---
+
+## Endorsed By
+
+<div class="flex flex-wrap justify-center mt3 mb4">
+  <div class="w-50-l w-100 pa3 tc">
+    <img src="/images/Lexington.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Lexington Town Goverment Logo" />
+    <h3 class="f4 fw6 mt2 mb1">Monuments and Memorials Committee</h3>
+    <a href="https://www.lexingtonma.gov/792/Monuments-Memorials-Committee" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
+  </div>
+</div>
+
+---
+
 ## Community Partners
 
 <div class="flex flex-wrap justify-center mt3 mb4">
