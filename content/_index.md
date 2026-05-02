@@ -28,19 +28,6 @@ _It starts with a choice. And the next step could be yours._
 
 <br>
 
-## Nominate a Community Hero
-
-Know some group or someone whose everyday actions make Lexington stronger? Submit them below.
-
-<div style="position: relative; width: 100%; max-width: 640px; margin: 0 auto; padding-bottom: 93.75%; height: 0; overflow: hidden;">
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdIVaf6AVN4JHykL7RTDT-LYqwyhyeOFH0PQR_ZUgMPtPT0Fg/viewform?embedded=true"
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;" frameborder="0" marginheight="0" marginwidth="0">
-    Loading…
-  </iframe>
-</div>
-
-<br>
-
 ---
 
 ### Event Flyer
