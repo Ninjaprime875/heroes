@@ -24,7 +24,18 @@ We invite businesses, families, and community partners to support this youth-led
 
 ### 🥈 Silver Sponsors
 
-*Be the first Silver Sponsor! [Contact us](mailto:lyst.connect@gmail.com) to learn more.*
+<div class="flex flex-wrap justify-center mt3 mb4">
+  <div class="w-50-l w-100 pa3 tc">
+    <img src="/images/CultureBridge.png" style="width:160px; height:160px; object-fit:cover; border-radius:30%;" alt="Cultural Bridge Logo" />
+    <h3 class="f4 fw6 mt2 mb1">Cultural Bridge Youth Program</h3>
+    <a href="https://caal-ma.org/youthcouncil/culture-bridge/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
+  </div>
+  <div class="w-50-l w-100 pa3 tc">
+    <img src="/images/BejingDining.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Beijing Chinese Dining Logo" />
+    <h3 class="f4 fw6 mt2 mb1">Beijing Chinese Dining</h3>
+    <a href="https://www.beijingchinesedining.com/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
+  </div>
+</div>
 
 ---
 

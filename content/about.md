@@ -6,6 +6,7 @@ featured_image: "/images/SettingUp.png"
 
 <div class="tc mb4">
   <img src="/images/Team logo.png" style="max-width:200px;" alt="Youth STEAM Initiative Logo" />
+  <br>
   <img src="/images/Logo_Transparent.png" style="max-width:200px;" alt="Illuminate Heritage: Lightscapes of Lexington Event Logo" />
 </div>
 
