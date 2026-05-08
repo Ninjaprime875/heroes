@@ -86,6 +86,30 @@ featured_image: "/images/SettingUp.png"
 
 ---
 
+## Outreach
+
+<div class="flex flex-wrap justify-center mt3 mb4">
+
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/WilliamYang.jpeg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="William Yang" />
+    <h3 class="f4 fw6 mt3 mb1">William Yang</h3>
+    <p class="f5 mid-gray">Sponsor Outreach</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/isabella.webp" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Isabella Li" />
+    <h3 class="f4 fw6 mt3 mb1">Isabella Li</h3>
+    <p class="f5 mid-gray">Sponsor Outreach</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/kalina.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Kalina Liu" />
+    <h3 class="f4 fw6 mt3 mb1">Kalina Liu</h3>
+    <p class="f5 mid-gray">Organization Photo Outreach</p>
+  </div>
+
+</div>
+
+---
+
 ## Proposal Lead (CEL Grant)
 
 <div class="flex flex-wrap justify-center mt3 mb4">
