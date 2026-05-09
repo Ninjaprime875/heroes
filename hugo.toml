@@ -43,3 +43,8 @@ copyright = "<a href='https://youthsteaminitiative.org' class='f4 fw4 white-70 h
   name = "Sponsors"
   url = "/sponsors/"
   weight = 4
+
+[[menu.main]]
+  name = "Past Events"
+  url = "/past/"
+  weight = 5

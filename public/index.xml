@@ -23,6 +23,13 @@
       <description>&lt;h2 id=&#34;nominate-a-community-hero&#34;&gt;Nominate a Community Hero&lt;/h2&gt;&#xA;&lt;p&gt;Know some group or someone whose everyday actions make Lexington stronger? Submit them below.&lt;/p&gt;&#xA;&lt;p&gt;They will have a chance to appear in our projection mapping event video displayed onto the building!&lt;/p&gt;&#xA;&lt;div style=&#34;position: relative; width: 100%; max-width: 640px; margin: 0 auto; padding-bottom: 93.75%; height: 0; overflow: hidden;&#34;&gt;&#xD;&#xA;  &lt;iframe src=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdIVaf6AVN4JHykL7RTDT-LYqwyhyeOFH0PQR_ZUgMPtPT0Fg/viewform?embedded=true&#34;&#xD;&#xA;    style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none;&#34; frameborder=&#34;0&#34; marginheight=&#34;0&#34; marginwidth=&#34;0&#34;&gt;&#xD;&#xA;    Loading…&#xD;&#xA;  &lt;/iframe&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
     <item>
+      <title>Past Events</title>
+      <link>http://localhost:1313/past/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/past/</guid>
+      <description>&lt;h2 id=&#34;past-events&#34;&gt;Past Events&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Illumination Night 2026:&lt;/strong&gt; January 30, 2026&#xA;&lt;img src=&#34;http://localhost:1313/images/illumination-night-2026-2.png&#34; alt=&#34;Illumination Night 2026&#34;&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/RTzTG9UK4ic?si=8bdPp0CcypXH-j5f&amp;amp;controls=0&amp;amp;start=190&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Diwali:&lt;/strong&gt; November 15, 2025&#xA;&lt;img src=&#34;http://localhost:1313/images/lexLuxProjection.jpg&#34; alt=&#34;Diwali 2025&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lex Lux 2025:&lt;/strong&gt; January 11, 2025&#xA;&lt;img src=&#34;http://localhost:1313/images/lexLuxProjection3.jpg&#34; alt=&#34;Lex Lux 2025&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Sponsors</title>
       <link>http://localhost:1313/sponsors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

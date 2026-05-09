@@ -86,26 +86,38 @@ featured_image: "/images/SettingUp.png"
 
 ---
 
-## Outreach
+## Outreach Team
+
+<div class="flex flex-wrap justify-center mt3 mb4">
+
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/kalina.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Kalina Liu" />
+    <h3 class="f4 fw6 mt3 mb1">Kalina Liu</h3>
+    <p class="f5 mid-gray">Organization Photo Outreach Chair</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/Andrewpan.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Andrew Pan" />
+    <h3 class="f4 fw6 mt3 mb1">Andrew Pan</h3>
+    <p class="f5 mid-gray">Organization Photo Outreach Co-Chair</p>
+  </div>
+</div>
+
+---
+
+## Sponsorship Team
 
 <div class="flex flex-wrap justify-center mt3 mb4">
 
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/WilliamYang.jpeg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="William Yang" />
     <h3 class="f4 fw6 mt3 mb1">William Yang</h3>
-    <p class="f5 mid-gray">Sponsor Outreach</p>
+    <p class="f5 mid-gray">Sponsor Outreach Co-Chair</p>
   </div>
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/isabella.webp" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Isabella Li" />
     <h3 class="f4 fw6 mt3 mb1">Isabella Li</h3>
-    <p class="f5 mid-gray">Sponsor Outreach</p>
+    <p class="f5 mid-gray">Sponsor Outreach Co-Chair</p>
   </div>
-  <div class="w-third-l w-100 pa3 tc">
-    <img src="/images/kalina.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Kalina Liu" />
-    <h3 class="f4 fw6 mt3 mb1">Kalina Liu</h3>
-    <p class="f5 mid-gray">Organization Photo Outreach</p>
-  </div>
-
 </div>
 
 ---
@@ -150,6 +162,14 @@ featured_image: "/images/SettingUp.png"
   <div class="w-50-l w-100 pa3 tc">
     <img src="/images/stella.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Stella Shen" />
     <h3 class="f4 fw6 mt3 mb1">Stella Shen</h3>
+    <p class="f5 lh-copy mid-gray">Stella Shen has over two decades of experience as a financial risk
+manager and data scientist, with roles at FICO, Citibank, and Deutsche
+Bank. She most recently served as Chief Risk Officer at JD Finance.
+She brings strong expertise in analytics, risk management, and project
+leadership.
+She also contributes to the community as a parent mentor for the Youth
+STEAM Initiative and volunteers with Angel Dance Company to support
+cultural programs and events.</p>
   </div>
 
   <div class="w-50-l w-100 pa3 tc">
@@ -171,19 +191,3 @@ featured_image: "/images/SettingUp.png"
   </div>
 
 </div>
-
----
-
-## Past Events
-
-**Illumination Night 2026:** January 30, 2026
-![Illumination Night 2026](/images/illumination-night-2026-2.png)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RTzTG9UK4ic?si=8bdPp0CcypXH-j5f&amp;controls=0&amp;start=190" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-**Diwali:** November 15, 2025
-![Diwali 2025](/images/lexLuxProjection.jpg)
-
-**Lex Lux 2025:** January 11, 2025
-![Lex Lux 2025](/images/lexLuxProjection3.jpg)
-
