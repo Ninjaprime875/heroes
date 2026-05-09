@@ -151,12 +151,31 @@ featured_image: "/images/SettingUp.png"
     <p class="f5 lh-copy mid-gray">Filmmaker and stop-motion animator from Lexington, MA. Graduated from RISD in May 2025 with a major in Film, Animation, and Video. Produced two award-winning short films for the New Legacy Cultural Center.</p>
   </div>
 
+
+  <div class="w-50-l w-100 pa3 tc">
+    <img src="/images/cristina.jpeg" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Cristina Burwell" />
+    <h3 class="f4 fw6 mt3 mb1">Cristina Burwell</h3>
+    <!--<p class="f5 lh-copy mid-gray">Bio coming soon.</p>-->
+  </div>
+
+  <div class="w-50-l w-100 pa3 tc">
+    <img src="/images/WeiDing.JPG" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Wei Ding" />
+    <h3 class="f4 fw6 mt3 mb1">Wei Ding</h3>
+    <p class="f5 lh-copy mid-gray">Wei Ding is a Distinguished Professor and Executive Director of the Paul English Applied AI Institute at UMass Boston. A former NSF Program Director (2019–2023) and IEEE/AAIA Fellow, she has published over 150 papers on machine learning and data mining. She is a recognized leader in "AI for All" initiatives, focusing on expanding AI education and workforce access.</p>
+  </div>
+
   <div class="w-50-l w-100 pa3 tc">
     <img src="/images/jeannie.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Jeannie Lu" />
     <h3 class="f4 fw6 mt3 mb1">Jeannie Lu</h3>
     <p class="f5 lh-copy mid-gray">Jeannie Lu is a Principal Software Engineer at Middleby, where she develops IoT solutions for commercial properties and connected kitchens. Prior to Middleby, she was a founding team member of Mazu Networks where she developed network infrastructure software. In her spare time, she volunteered as a FLL robotics coach in MIT Lincoln Lab’s outreach program for 5 years.
 
 </p>
+  </div>
+
+  <div class="w-50-l w-100 pa3 tc">
+    <img src="/images/mark.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Mark Manasas" />
+    <h3 class="f4 fw6 mt3 mb1">Mark Manasas</h3>
+    <!--<p class="f5 lh-copy mid-gray">Bio coming soon.</p>-->
   </div>
 
   <div class="w-50-l w-100 pa3 tc">
@@ -171,23 +190,3 @@ She also contributes to the community as a parent mentor for the Youth
 STEAM Initiative and volunteers with Angel Dance Company to support
 cultural programs and events.</p>
   </div>
-
-  <div class="w-50-l w-100 pa3 tc">
-    <img src="/images/WeiDing.JPG" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Wei Ding" />
-    <h3 class="f4 fw6 mt3 mb1">Wei Ding</h3>
-    <p class="f5 lh-copy mid-gray">Wei Ding is a Distinguished Professor and Executive Director of the Paul English Applied AI Institute at UMass Boston. A former NSF Program Director (2019–2023) and IEEE/AAIA Fellow, she has published over 150 papers on machine learning and data mining. She is a recognized leader in "AI for All" initiatives, focusing on expanding AI education and workforce access.</p>
-  </div>
-
-  <div class="w-50-l w-100 pa3 tc">
-    <img src="/images/mark.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Mark Manasas" />
-    <h3 class="f4 fw6 mt3 mb1">Mark Manasas</h3>
-    <!--<p class="f5 lh-copy mid-gray">Bio coming soon.</p>-->
-  </div>
-
-  <div class="w-50-l w-100 pa3 tc">
-    <img src="/images/cristina.jpeg" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Cristina Burwell" />
-    <h3 class="f4 fw6 mt3 mb1">Cristina Burwell</h3>
-    <!--<p class="f5 lh-copy mid-gray">Bio coming soon.</p>-->
-  </div>
-
-</div>
