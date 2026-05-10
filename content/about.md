@@ -31,6 +31,36 @@ featured_image: "/images/SettingUp.png"
     <h3 class="f4 fw6 mt3 mb1">Angelina Ding</h3>
     <p class="f5 mid-gray">Co-Lead</p>
   </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/Liam Gao.JPG" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Liam Gao" />
+    <h3 class="f4 fw6 mt3 mb1">Liam Gao</h3>
+    <p class="f5 mid-gray">Member</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/Connie Guo.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Connie Guo" />
+    <h3 class="f4 fw6 mt3 mb1">Connie Guo</h3>
+    <p class="f5 mid-gray">Member</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/Ben Ji.jpeg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Ben Ji" />
+    <h3 class="f4 fw6 mt3 mb1">Ben Ji</h3>
+    <p class="f5 mid-gray">Member</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/Grace Li.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Grace Li" />
+    <h3 class="f4 fw6 mt3 mb1">Grace Li</h3>
+    <p class="f5 mid-gray">Member</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/Sophie Li.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Sophie Li" />
+    <h3 class="f4 fw6 mt3 mb1">Sophie Li</h3>
+    <p class="f5 mid-gray">Member</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/anonymous.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Chen Fu" />
+    <h3 class="f4 fw6 mt3 mb1">Chen Fu</h3>
+    <p class="f5 mid-gray">Member</p>
+  </div>
 
 </div>
 
@@ -86,25 +116,45 @@ featured_image: "/images/SettingUp.png"
 
 ---
 
-## Outreach Team
+## Organization Photo Outreach Team
 
 <div class="flex flex-wrap justify-center mt3 mb4">
 
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/kalina.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Kalina Liu" />
     <h3 class="f4 fw6 mt3 mb1">Kalina Liu</h3>
-    <p class="f5 mid-gray">Organization Photo Outreach Chair</p>
+    <p class="f5 mid-gray">Outreach Chair</p>
   </div>
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/Andrewpan.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Andrew Pan" />
     <h3 class="f4 fw6 mt3 mb1">Andrew Pan</h3>
-    <p class="f5 mid-gray">Organization Photo Outreach Co-Chair</p>
+    <p class="f5 mid-gray">Outreach Co-Chair</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/Zhengjia Yang.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Zhengjia Yang" />
+    <h3 class="f4 fw6 mt3 mb1">Zhengjia Yang</h3>
+    <p class="f5 mid-gray">Member</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/JulianaYin.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Juliana Yin" />
+    <h3 class="f4 fw6 mt3 mb1">Juliana Yin</h3>
+    <p class="f5 mid-gray">Member</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/Ziling(Lucy)Yin.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Lucy Yin" />
+    <h3 class="f4 fw6 mt3 mb1">Lucy Yin</h3>
+    <p class="f5 mid-gray">Member</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/anonymous.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Katrina Kuang" />
+    <h3 class="f4 fw6 mt3 mb1">Katrina Kuang</h3>
+    <p class="f5 mid-gray">Member</p>
   </div>
 </div>
 
 ---
 
-## Sponsorship Team
+## Sponsorship Outreach Team
 
 <div class="flex flex-wrap justify-center mt3 mb4">
 
@@ -117,6 +167,21 @@ featured_image: "/images/SettingUp.png"
     <img src="/images/isabella.webp" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Isabella Li" />
     <h3 class="f4 fw6 mt3 mb1">Isabella Li</h3>
     <p class="f5 mid-gray">Sponsor Outreach Co-Chair</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/leochen.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Leo Chen" />
+    <h3 class="f4 fw6 mt3 mb1">Leo Chen</h3>
+    <p class="f5 mid-gray">Member</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/Eric Song.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Eric Song" />
+    <h3 class="f4 fw6 mt3 mb1">Eric Song</h3>
+    <p class="f5 mid-gray">Member</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/anonymous.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Harry Tan" />
+    <h3 class="f4 fw6 mt3 mb1">Harry Tan</h3>
+    <p class="f5 mid-gray">Member</p>
   </div>
 </div>
 
@@ -155,7 +220,7 @@ featured_image: "/images/SettingUp.png"
   <div class="w-50-l w-100 pa3 tc">
     <img src="/images/cristina.jpeg" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Cristina Burwell" />
     <h3 class="f4 fw6 mt3 mb1">Cristina Burwell</h3>
-    <!--<p class="f5 lh-copy mid-gray">Bio coming soon.</p>-->
+    <p class="f5 lh-copy mid-gray">​Cristina joined MCA in 2016. Her BFA in Industrial Design and MA in Ergonomics & Biomechanics led her to a former career designing products and environments for people with disabilities. After moving to Boston in 1996, she worked for Boston University as a Lecturer and GTE as a Human Factors Engineer. More recently, she chaired Lexington’s Council for the Arts and raised two children in East Lexington. Cristina is the official dogwalker of MCA ArtDog.</p>
   </div>
 
   <div class="w-50-l w-100 pa3 tc">
@@ -175,7 +240,10 @@ featured_image: "/images/SettingUp.png"
   <div class="w-50-l w-100 pa3 tc">
     <img src="/images/mark.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Mark Manasas" />
     <h3 class="f4 fw6 mt3 mb1">Mark Manasas</h3>
-    <!--<p class="f5 lh-copy mid-gray">Bio coming soon.</p>-->
+    <p class="f5 lh-copy mid-gray">Mark Manasas is the president of the Lex Lyceum. Mark’s background is in building and leading engineering teams developing novel medical devices.
+Mark is also on the board of LexFarm and Lexington Zero Waste. He served on the Stone Building Feasibility & Reuse Committee and is a Precinct 2 Town Meeting Member.
+
+</p>
   </div>
 
   <div class="w-50-l w-100 pa3 tc">
