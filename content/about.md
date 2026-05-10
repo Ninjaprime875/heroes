@@ -32,6 +32,11 @@ featured_image: "/images/SettingUp.png"
     <p class="f5 mid-gray">Co-Lead</p>
   </div>
   <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/AndrewDuan.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Andrew Duan" />
+    <h3 class="f4 fw6 mt3 mb1">Andrew Duan</h3>
+    <p class="f5 mid-gray">Member</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
     <img src="/images/Liam Gao.JPG" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Liam Gao" />
     <h3 class="f4 fw6 mt3 mb1">Liam Gao</h3>
     <p class="f5 mid-gray">Member</p>
