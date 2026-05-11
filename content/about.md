@@ -184,7 +184,7 @@ featured_image: "/images/SettingUp.png"
     <p class="f5 mid-gray">Member</p>
   </div>
   <div class="w-third-l w-100 pa3 tc">
-    <img src="/images/anonymous.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Harry Tan" />
+    <img src="/images/harrytan.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Harry Tan" />
     <h3 class="f4 fw6 mt3 mb1">Harry Tan</h3>
     <p class="f5 mid-gray">Member</p>
   </div>
