@@ -41,8 +41,13 @@ We invite businesses, families, and community partners to support this youth-led
 
 ### 🥉 Bronze Sponsors
 
-*Be the first Community Sponsor! [Contact us](mailto:lyst.connect@gmail.com) to learn more.*
-
+<div class="flex flex-wrap justify-center mt3 mb4">
+  <div class="w-50-l w-100 pa3 tc">
+    <img src="/images/robot.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Robotfun Academy Logo" />
+    <h3 class="f4 fw6 mt2 mb1">Robotfun Academy</h3>
+    <a href="https://www.robotfunacademy.com/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
+  </div>
+</div>
 
 <br>
 
