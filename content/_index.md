@@ -1,7 +1,7 @@
 ---
 title: "Illuminate Heritage: Lightscapes of Lexington"
 description: "Citizen Heroes of Lexington Projection Mapping Event"
-featured_image: "/images/illumination-night-2026.png"
+featured_image: "/images/towncomittees.png"
 ---
 
 ## About the Event
@@ -50,6 +50,11 @@ _It starts with a choice. And the next step could be yours._
 ## Community Partners
 
 <div class="flex flex-wrap justify-center mt3 mb4">
+  <div class="w-50-l w-100 pa3 tc">
+    <img src="/images/luckieartstudio.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Luckie Art Studio" />
+    <h3 class="f4 fw6 mt2 mb1">Luckie Art Studio</h3>
+    <a href="https://www.luckie-art-studio.com/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
+  </div>
   <div class="w-50-l w-100 pa3 tc">
     <img src="/images/munroe.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Munroe Center for the Arts" />
     <h3 class="f4 fw6 mt2 mb1">Munroe Center for the Arts</h3>
