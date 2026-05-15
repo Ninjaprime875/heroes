@@ -47,6 +47,11 @@ We invite businesses, families, and community partners to support this youth-led
     <h3 class="f4 fw6 mt2 mb1">Robotfun Academy</h3>
     <a href="https://www.robotfunacademy.com/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
   </div>
+  <div class="w-50-l w-100 pa3 tc">
+    <img src="/images/shoplexington.jpg" style="width:240px; height:160px; object-fit:cover; border-radius:20%;" alt="Shop Lexington Logo" />
+    <h3 class="f4 fw6 mt2 mb1">Shop Lexington</h3>
+    <a href="https://shoplexingtonfirst.com/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
+  </div>
 </div>
 
 <br>
