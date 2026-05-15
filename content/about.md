@@ -37,6 +37,16 @@ featured_image: "/images/SettingUp.png"
     <p class="f5 mid-gray">Member</p>
   </div>
   <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/Chen Fu.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Chen Fu" />
+    <h3 class="f4 fw6 mt3 mb1">Chen Fu</h3>
+    <p class="f5 mid-gray">Member</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/kuanfu.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Kuan Fu" />
+    <h3 class="f4 fw6 mt3 mb1">Kuan Fu</h3>
+    <p class="f5 mid-gray">Member</p>
+  </div>
+  <div class="w-third-l w-100 pa3 tc">
     <img src="/images/Liam Gao.JPG" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Liam Gao" />
     <h3 class="f4 fw6 mt3 mb1">Liam Gao</h3>
     <p class="f5 mid-gray">Member</p>
@@ -59,11 +69,6 @@ featured_image: "/images/SettingUp.png"
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/Sophie Li.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Sophie Li" />
     <h3 class="f4 fw6 mt3 mb1">Sophie Li</h3>
-    <p class="f5 mid-gray">Member</p>
-  </div>
-  <div class="w-third-l w-100 pa3 tc">
-    <img src="/images/Chen Fu.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Chen Fu" />
-    <h3 class="f4 fw6 mt3 mb1">Chen Fu</h3>
     <p class="f5 mid-gray">Member</p>
   </div>
 
