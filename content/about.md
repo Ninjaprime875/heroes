@@ -20,18 +20,22 @@ featured_image: "/images/SettingUp.png"
     <h3 class="f4 fw6 mt3 mb1">Stephen Yang</h3>
     <p class="f5 mid-gray">Director</p>
   </div>
-
+  
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/Trenton_Fan.webp" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Trenton Fan" />
     <h3 class="f4 fw6 mt3 mb1">Trenton Fan</h3>
     <p class="f5 mid-gray">Associate Director</p>
   </div>
-
+  
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/Angelina.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Angelina Ding" />
     <h3 class="f4 fw6 mt3 mb1">Angelina Ding</h3>
     <p class="f5 mid-gray">Associate Director</p>
   </div>
+
+</div>
+
+---
 
 ## Projection Mapping Team
 
@@ -42,36 +46,43 @@ featured_image: "/images/SettingUp.png"
     <h3 class="f4 fw6 mt3 mb1">Andrew Duan</h3>
     <p class="f5 mid-gray">Member</p>
   </div>
+  
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/Chen Fu.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Chen Fu" />
     <h3 class="f4 fw6 mt3 mb1">Chen Fu</h3>
     <p class="f5 mid-gray">Member</p>
   </div>
+  
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/kuanfu.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Kuan Fu" />
     <h3 class="f4 fw6 mt3 mb1">Kuan Fu</h3>
     <p class="f5 mid-gray">Member</p>
   </div>
+  
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/Liam Gao.JPG" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Liam Gao" />
     <h3 class="f4 fw6 mt3 mb1">Liam Gao</h3>
     <p class="f5 mid-gray">Member</p>
   </div>
+  
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/Connie Guo.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Connie Guo" />
     <h3 class="f4 fw6 mt3 mb1">Connie Guo</h3>
     <p class="f5 mid-gray">Member</p>
   </div>
+  
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/Ben Ji.jpeg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Ben Ji" />
     <h3 class="f4 fw6 mt3 mb1">Ben Ji</h3>
     <p class="f5 mid-gray">Member</p>
   </div>
+  
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/Grace Li.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Grace Li" />
     <h3 class="f4 fw6 mt3 mb1">Grace Li</h3>
     <p class="f5 mid-gray">Member</p>
   </div>
+  
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/Sophie Li.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Sophie Li" />
     <h3 class="f4 fw6 mt3 mb1">Sophie Li</h3>
