@@ -9,13 +9,6 @@
     <copyright>&lt;a href=&#39;https://youthsteaminitiative.org&#39; class=&#39;f4 fw4 white-70 hover-white no-underline tc&#39;&gt;©Youth STEAM Initiative 2026&lt;/a&gt;</copyright>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gallery/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>About Us</title>
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -35,6 +28,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/past/</guid>
       <description>&lt;h2 id=&#34;past-events&#34;&gt;Past Events&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Illumination Night 2026:&lt;/strong&gt; January 30, 2026&#xA;&lt;img src=&#34;http://localhost:1313/images/illumination-night-2026-2.png&#34; alt=&#34;Illumination Night 2026&#34;&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/RTzTG9UK4ic?si=8bdPp0CcypXH-j5f&amp;amp;controls=0&amp;amp;start=190&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Diwali:&lt;/strong&gt; November 15, 2025&#xA;&lt;img src=&#34;http://localhost:1313/images/lexLuxProjection.jpg&#34; alt=&#34;Diwali 2025&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lex Lux 2025:&lt;/strong&gt; January 11, 2025&#xA;&lt;img src=&#34;http://localhost:1313/images/lexLuxProjection3.jpg&#34; alt=&#34;Lex Lux 2025&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Photo Gallery</title>
+      <link>http://localhost:1313/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/</guid>
+      <description></description>
     </item>
     <item>
       <title>Sponsors</title>
