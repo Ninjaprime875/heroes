@@ -173,7 +173,7 @@ featured_image: "/images/SettingUp.png"
     <p class="f5 mid-gray">Member</p>
   </div>
   <div class="w-third-l w-100 pa3 tc">
-    <img src="/images/katrina.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Katrina Kuang" />
+    <img src="/images/A7404408.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Katrina Kuang" />
     <h3 class="f4 fw6 mt3 mb1">Katrina Kuang</h3>
     <p class="f5 mid-gray">Member</p>
   </div>
