@@ -237,7 +237,7 @@ featured_image: "/images/SettingUp.png"
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/StephenYang2.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Stephen Yang" />
     <h3 class="f4 fw6 mt3 mb1">Stephen Yang</h3>
-    <p class="f5 mid-gray">Website Developer</p>
+    <p class="f5 mid-gray">Head Website Developer</p>
   </div>
   
   <div class="w-third-l w-100 pa3 tc">
