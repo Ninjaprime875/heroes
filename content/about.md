@@ -230,6 +230,32 @@ featured_image: "/images/SettingUp.png"
 
 ---
 
+## Website Team
+
+<div class="flex flex-wrap justify-center mt3 mb4">
+
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/StephenYang2.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Stephen Yang" />
+    <h3 class="f4 fw6 mt3 mb1">Stephen Yang</h3>
+    <p class="f5 mid-gray">Website Developer</p>
+  </div>
+  
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/Trenton_Fan.webp" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Trenton Fan" />
+    <h3 class="f4 fw6 mt3 mb1">Trenton Fan</h3>
+    <p class="f5 mid-gray">Website Developer</p>
+  </div>
+  
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/Angelina.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Angelina Ding" />
+    <h3 class="f4 fw6 mt3 mb1">Angelina Ding</h3>
+    <p class="f5 mid-gray">Website Developer</p>
+  </div>
+
+</div>
+
+---
+
 ## Proposal Lead (CEL Grant)
 
 <div class="flex flex-wrap justify-center mt3 mb4">
