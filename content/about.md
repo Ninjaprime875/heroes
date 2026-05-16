@@ -10,7 +10,8 @@ featured_image: "/images/SettingUp.png"
   <img src="/images/Logo_Transparent.png" style="max-width:200px;" alt="Illuminate Heritage: Lightscapes of Lexington Event Logo" />
 </div>
 
-## Projection Mapping Team
+
+## Executive Team
 
 <div class="flex flex-wrap justify-center mt3 mb4">
 
@@ -31,6 +32,11 @@ featured_image: "/images/SettingUp.png"
     <h3 class="f4 fw6 mt3 mb1">Angelina Ding</h3>
     <p class="f5 mid-gray">Co-Lead</p>
   </div>
+
+## Projection Mapping Team
+
+<div class="flex flex-wrap justify-center mt3 mb4">
+  
   <div class="w-third-l w-100 pa3 tc">
     <img src="/images/AndrewDuan.jpg" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Andrew Duan" />
     <h3 class="f4 fw6 mt3 mb1">Andrew Duan</h3>
