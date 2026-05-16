@@ -5,4 +5,5 @@ featured_image: "/images/citizenheroes.png"
 ---
 
 ## Work In Progress
-<!--To use a photo that you uploaded in the gallery folder, do /images/gallery/robot.png, for example-->
+<!--To use a photo that you uploaded in the gallery folder, do /images/gallery/citizenheroesmarkmanasas.jpg, for example
+-->
