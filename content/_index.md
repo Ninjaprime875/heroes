@@ -31,7 +31,7 @@ _It starts with a choice. And the next step could be yours._
 ---
 
 ### Event Flyer
-<img src = "/images/flyer.png" alt = "Event flyer" style="width: 400px"/>
+<img src = "/images/poster7.png" alt = "Event flyer" style="width: 400px"/>
 
 ---
 
