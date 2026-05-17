@@ -14,6 +14,6 @@ description: "Live visitor statistics for Illuminate Heritage: Lightscapes of Le
   </div>
 
   <div class="mt4">
-    <img src="https://heroes.goatcounter.com/counter/YOURPAGE.svg" alt="Visitor Count" />
+    <img src="https://heroes.goatcounter.com/counter//.svg" alt="Visitor Count" />
   </div>
 </div>

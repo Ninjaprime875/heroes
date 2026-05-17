@@ -48,7 +48,7 @@
       <link>http://localhost:1313/visitors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/visitors/</guid>
-      <description>&lt;div class=&#34;tc mt4 mb4&#34;&gt;&#xD;&#xA;  &lt;h2 class=&#34;f3 fw6&#34;&gt;Live Visitor Statistics&lt;/h2&gt;&#xD;&#xA;  &lt;p class=&#34;f5 mid-gray&#34;&gt;See who&#39;s been visiting our site in real time.&lt;/p&gt;&#xD;&#xA;  &lt;div class=&#34;mt4&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://heroes.goatcounter.com&#34; target=&#34;_blank&#34; class=&#34;f5 link dim dark-gray&#34;&gt;&#xD;&#xA;      View full stats dashboard →&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;mt4&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;https://heroes.goatcounter.com/counter/YOURPAGE.svg&#34; alt=&#34;Visitor Count&#34; /&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
+      <description>&lt;div class=&#34;tc mt4 mb4&#34;&gt;&#xD;&#xA;  &lt;h2 class=&#34;f3 fw6&#34;&gt;Live Visitor Statistics&lt;/h2&gt;&#xD;&#xA;  &lt;p class=&#34;f5 mid-gray&#34;&gt;See who&#39;s been visiting our site in real time.&lt;/p&gt;&#xD;&#xA;  &lt;div class=&#34;mt4&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://heroes.goatcounter.com&#34; target=&#34;_blank&#34; class=&#34;f5 link dim dark-gray&#34;&gt;&#xD;&#xA;      View full stats dashboard →&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;mt4&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;https://heroes.goatcounter.com/counter//.svg&#34; alt=&#34;Visitor Count&#34; /&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
     </item>
   </channel>
 </rss>
