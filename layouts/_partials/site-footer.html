@@ -1,8 +1,14 @@
-<footer class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+<footer class="{{ .Site.Params.background_color_class | compare.Default " bg-black" }} bottom-0 w-100 pa3"
+  role="contentinfo">
   <div class="flex justify-between">
-  <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}" >
-    {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safe.HTML }} {{ now.Format "2006"}} {{ end }}
-  </a>
+    <a href='https://youthsteaminitiative.org' target="_blank"class='f4 fw4 white-70 hover-white no-underline tc'>© Youth STEAM
+      Initiative 2026</a>
     <div>{{ partials.IncludeCached "social/follow.html" . }}</div>
+  </div>
+  <br>
+  <div class="tc pb3">
+    <a href="/visitors/" class="f6 link dim ba bw1 ph3 pv2 mb2 dib white-70 hover-white b--white-70">
+      Visitor Stats
+    </a>
   </div>
 </footer>

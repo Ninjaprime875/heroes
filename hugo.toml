@@ -2,7 +2,7 @@ baseURL = 'https://heroes.youthsteaminitiative.org/'
 languageCode = 'en-us'
 title = 'Illuminate Heritage: Lightscapes of Lexington'
 theme = 'ananke'
-copyright = "<a href='https://youthsteaminitiative.org' class='f4 fw4 white-70 hover-white no-underline tc'>©Youth STEAM Initiative 2026</a>"
+copyright = " "
 
 [params]
   mainSections = []
