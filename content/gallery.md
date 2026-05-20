@@ -10,7 +10,3 @@ featured_image: "/images/citizenheroes.png"
 <div class="gallery">
   <img src="/images/gallery/citizenheroesmarkmanasas.jpg">
 
-  <img src="/images/gallery/photo2.jpg">
-
-  <img src="/images/gallery/photo3.jpg">
-</div>
