@@ -1,4 +1,4 @@
----
+[photo_gallery_with_captions.md](https://github.com/user-attachments/files/28171005/photo_gallery_with_captions.md)---
 title: "Photo Gallery"
 description: "A Display of Community Submitted Photos of Heroes of Lexington"
 featured_image: "/images/citizenheroes.png"
@@ -141,42 +141,42 @@ featured_image: "/images/citizenheroes.png"
 
 <script>
 const photos = [
-  { src: "/images/gallery/aapi1.jpg", caption: "Photo placeholder for aapi1" },
-  { src: "/images/gallery/aapi2.jpg", caption: "Photo placeholder for aapi2" },
-  { src: "/images/gallery/aapi3.jpg", caption: "Photo placeholder for aapi3" },
-  { src: "/images/gallery/allstars.jpeg", caption: "Photo placeholder for allstars" },
-  { src: "/images/gallery/bridge.jpg", caption: "Photo placeholder for bridge" },
-  { src: "/images/gallery/bruce.jpeg", caption: "Photo placeholder for bruce" },
-  { src: "/images/gallery/calex1.jpg", caption: "Photo placeholder for calex1" },
-  { src: "/images/gallery/calex2.jpg", caption: "Photo placeholder for calex2" },
-  { src: "/images/gallery/counselor.jpeg", caption: "Photo placeholder for counselor" },
-  { src: "/images/gallery/display.png", caption: "Photo placeholder for display" },
-  { src: "/images/gallery/farmers.jpeg", caption: "Photo placeholder for farmers" },
-  { src: "/images/gallery/festival1.jpg", caption: "Photo placeholder for festival1" },
-  { src: "/images/gallery/festival2.jpg", caption: "Photo placeholder for festival2" },
-  { src: "/images/gallery/festival3.jpg", caption: "Photo placeholder for festival3" },
-  { src: "/images/gallery/festival4.jpg", caption: "Photo placeholder for festival4" },
-  { src: "/images/gallery/festival5.jpg", caption: "Photo placeholder for festival5" },
-  { src: "/images/gallery/festival6.jpg", caption: "Photo placeholder for festival6" },
-  { src: "/images/gallery/festival7.jpg", caption: "Photo placeholder for festival7" },
-  { src: "/images/gallery/festival8.jpg", caption: "Photo placeholder for festival8" },
-  { src: "/images/gallery/festival9.jpg", caption: "Photo placeholder for festival9" },
-  { src: "/images/gallery/greenteam.png", caption: "Photo placeholder for greenteam" },
-  { src: "/images/gallery/helpfulhands.jpg", caption: "Photo placeholder for helpfulhands" },
-  { src: "/images/gallery/kolex.jpg", caption: "Photo placeholder for kolex" },
-  { src: "/images/gallery/lexlux.jpg", caption: "Photo placeholder for lexlux" },
-  { src: "/images/gallery/musicfestival.jpg", caption: "Photo placeholder for musicfestival" },
-  { src: "/images/gallery/musicians.jpeg", caption: "Photo placeholder for musicians" },
-  { src: "/images/gallery/parade1.jpeg", caption: "Photo placeholder for parade1" },
-  { src: "/images/gallery/parade2.jpg", caption: "Photo placeholder for parade2" },
-  { src: "/images/gallery/parade3.jpeg", caption: "Photo placeholder for parade3" },
-  { src: "/images/gallery/party.jpg", caption: "Photo placeholder for party" },
-  { src: "/images/gallery/pta.png", caption: "Photo placeholder for pta" },
-  { src: "/images/gallery/robot.jpg", caption: "Photo placeholder for robot" },
-  { src: "/images/gallery/scouts1.jpg", caption: "Photo placeholder for scouts1" },
-  { src: "/images/gallery/scouts2.jpg", caption: "Photo placeholder for scouts2" },
-  { src: "/images/gallery/scouts3.jpg", caption: "Photo placeholder for scouts3" },
-  { src: "/images/gallery/volunteers.jpg", caption: "Photo placeholder for volunteers" }
+  { src: "/images/gallery/aapi1.jpg", caption: "Dragon Youth Sports Program leaders and runners at the Belmont AAPI Run, celebrating youth athletics, cultural pride, and community leadership across generations." },
+  { src: "/images/gallery/aapi2.jpg", caption: "Young participants gather at the starting line of the Belmont AAPI Run, showing the energy and teamwork behind a community event supporting AAPI youth in sports." },
+  { src: "/images/gallery/aapi3.jpg", caption: "Dragon Youth Sports Program members and supporters celebrate at the Belmont AAPI Run finish line, honoring leadership, perseverance, and cross-cultural understanding." },
+  { src: "/images/gallery/allstars.jpeg", caption: "AllStars Learning volunteers bring middle school and high school students together for peer mentorship, learning support, and community-centered education." },
+  { src: "/images/gallery/bridge.jpg", caption: "Bridge School PTA volunteers and students celebrate curiosity at a school science fair, where young learners share experiments, discoveries, and the joy of science." },
+  { src: "/images/gallery/bruce.jpeg", caption: "Bruce Leader portrays Lexington Minute Man Thaddeus Bowman on Patriots' Day, helping keep Lexington's Revolutionary history alive for the community." },
+  { src: "/images/gallery/calex1.jpg", caption: "CALex volunteers, performers, elected officials, and community leaders gather after the 2026 Lunar New Year celebration, honoring the work of more than 100 volunteers and 200 performers." },
+  { src: "/images/gallery/calex2.jpg", caption: "CALex and LexYouth recognize youth volunteer award winners for their dedication, service, and meaningful contributions to the Lexington community." },
+  { src: "/images/gallery/counselor.jpeg", caption: "Munroe Arts camp counselors represent generations of creative learning at the Munroe Center for the Arts, a community institution shaped by imagination and hard work." },
+  { src: "/images/gallery/display.png", caption: "At a community table in Depot Square, volunteers help visitors make crafts and take home a small piece of a larger shared celebration." },
+  { src: "/images/gallery/farmers.jpeg", caption: "LexFarm volunteers gather produce from the farm's gleaning program to support local food security through donations to neighbors in need." },
+  { src: "/images/gallery/festival1.jpg", caption: "At Lexington Lyceum's International Fun Fest, community members celebrate cultural diversity through Bollywood, Salsa, Chinese dance and song, and American jazz." },
+  { src: "/images/gallery/festival2.jpg", caption: "New Legacy Culture Center volunteers and community partners prepare for the 2025 Lantern Festival promenade, bringing American historical tradition and Asian cultural expression together." },
+  { src: "/images/gallery/festival3.jpg", caption: "Students and teachers celebrate Lunar New Year at Estabrook School, where culture becomes something to see, hear, feel, and share." },
+  { src: "/images/gallery/festival4.jpg", caption: "At the NLCC Back-to-School Party, youth volunteers and Go Club instructors welcome families to learn strategy, culture, and connection one move at a time." },
+  { src: "/images/gallery/festival5.jpg", caption: "The Shi Wei Book Club gathers at the Lexington Community Center, turning reading into a shared journey of reflection, conversation, and community." },
+  { src: "/images/gallery/festival6.jpg", caption: "At the CAAL Lunar New Year Gala, grandmother and granddaughter share a Mongolian dance moment, passing heritage from one generation to the next." },
+  { src: "/images/gallery/festival7.jpg", caption: "The opening dance of the CAAL Lunar New Year Gala welcomes the Year of the Horse with blossoms, movement, and galloping joy." },
+  { src: "/images/gallery/festival8.jpg", caption: "Young dancers at the CAAL Lunar New Year Gala bring energy, beauty, and cultural blessings to the stage through a dance inspired by abundance." },
+  { src: "/images/gallery/festival9.jpg", caption: "CAAL performers present Mulan, telling a story of bravery, devotion, and courage through dance." },
+  { src: "/images/gallery/greenteam.png", caption: "LPS Green Team volunteers help students sort lunch waste into compost, recycling, trash, and food donations, turning daily habits into environmental stewardship." },
+  { src: "/images/gallery/helpfulhands.jpg", caption: "Helpful Hands youth volunteers deliver clothing to the House of Hope shelter, continuing a five-year tradition of targeted service to neighbors in need." },
+  { src: "/images/gallery/kolex.jpg", caption: "KOLex members, including children and teens, join the Patriots' Day Parade with pride, belonging, and appreciation for Lexington's history and community spirit." },
+  { src: "/images/gallery/lexlux.jpg", caption: "At Lexington Town Diwali in Depot Square, community members gather for music, light, dance, colorful backdrops, and an illustration show with LexLux." },
+  { src: "/images/gallery/musicfestival.jpg", caption: "Performers at the Asian Music Festival in Lexington share music as a bridge across cultures, generations, and community stories." },
+  { src: "/images/gallery/musicians.jpeg", caption: "Mindful Musicians bring songs from the 1940s and 1950s to seniors at Artis Senior Living, creating joy, memory, and connection through music." },
+  { src: "/images/gallery/parade1.jpeg", caption: "Munroe Center for the Arts volunteers bring public art into the Patriots' Day Parade, showing how many hands can turn civic tradition into shared creativity." },
+  { src: "/images/gallery/parade2.jpg", caption: "CAAL waist drum performers debut a Chinese folk tradition in the Lexington Patriots' Day Parade after many evenings of practice and preparation." },
+  { src: "/images/gallery/parade3.jpeg", caption: "The CAAL dragon team marches in the Patriots' Day Parade, adding color, movement, and cultural celebration to Lexington's historic streets." },
+  { src: "/images/gallery/party.jpg", caption: "At a public light-and-community event in Depot Square, volunteers gather to brighten one of the darkest times of the year with warmth and creativity." },
+  { src: "/images/gallery/pta.png", caption: "Harrington PTA volunteers and students celebrate Great Map Night, bringing families together for hands-on geography, crafts, and post-pandemic community learning." },
+  { src: "/images/gallery/robot.jpg", caption: "Winsor Robotics students stand with their robot at a 2026 FTC qualifier, showing teamwork, engineering, problem-solving, and confidence in STEM." },
+  { src: "/images/gallery/scouts1.jpg", caption: "Troop 119 scouts volunteer on Lexington conservation land, helping remove dead trees and clean trash in service of the town's natural spaces." },
+  { src: "/images/gallery/scouts2.jpg", caption: "Cub Scout Pack 137 volunteers help LexFarm by clearing rocks from a field, turning small hands and steady effort into community service." },
+  { src: "/images/gallery/scouts3.jpg", caption: "Troop 10 scouts support Lexington history and community service through projects ranging from Patriots' Day help to garden restoration and accessible outdoor spaces." },
+  { src: "/images/gallery/volunteers.jpg", caption: "Community volunteers step forward in many forms — teaching, building, planting, performing, sorting, mentoring, and carrying Lexington's civic spirit into everyday life." }
 ];
 
 const galleryGrid = document.getElementById('galleryGrid');
@@ -247,4 +247,3 @@ window.addEventListener('keydown', (event) => {
 
 buildGallery();
 </script>
-
