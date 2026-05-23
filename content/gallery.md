@@ -1,7 +1,10 @@
-[photo_gallery_with_captions.md](https://github.com/user-attachments/files/28171005/photo_gallery_with_captions.md)---
+---
 title: "Photo Gallery"
 description: "A Display of Community Submitted Photos of Heroes of Lexington"
 featured_image: "/images/citizenheroes.png"
+---
+
+<div class="gallery-page"
 ---
 
 <div class="gallery-page">
