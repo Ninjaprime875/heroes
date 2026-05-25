@@ -141,13 +141,13 @@ featured_image: "/images/citizenheroes.png"
 
 <script>
 const photos = [
-  { src: "/images/gallery/ Shadow Joy Lab- Shirley C 1.png", caption: "Caption placeholder" },
-  { src: "/images/gallery/2026 World 2nd place - Jian Wen 1.jpg", caption: "Caption placeholder" },
-  { src: "/images/gallery/AllStars Learning - Mira Xu 1.jpeg", caption: "Caption placeholder" },
-  { src: "/images/gallery/artwalk - Cristina Burwell 6.jpeg", caption: "Caption placeholder" },
-  { src: "/images/gallery/BAA CEO Jack Flemming and Dragon Team Captain David Guo - David Guo 2.jpg", caption: "Caption placeholder" },
-  { src: "/images/gallery/bbp - Cristina Burwell 8.jpeg", caption: "Caption placeholder" },
-  { src: "/images/gallery/Blooming - Mindful Musicians - Liyuan Ji 1.jpeg", caption: "Caption placeholder" },
+  { src: "/images/gallery/ Shadow Joy Lab- Shirley C 1.png", caption: "Over 24 families come together, sharing 36 free performances or workshops to thousands of audience members, preserving a 2000-year-old tradition of shadow puppetry." },
+  { src: "/images/gallery/2026 World 2nd place - Jian Wen 1.jpg", caption: "A group of young future engineers celebrating their perserverance and dedication to STEM and Robotics at the world stage after receiving a great achievement." },
+  { src: "/images/gallery/AllStars Learning - Mira Xu 1.jpeg", caption: "Middle school and high school volunteers help host an event with over a dozen booths that appreciate the beauty of STEM." },
+  { src: "/images/gallery/artwalk - Cristina Burwell 6.jpeg", caption: "Artwalk volunteers come together, hosting a call-for-artists and placing meticulously curated submissions in windows to appreciate and promote local artists and retailers" },
+  { src: "/images/gallery/BAA CEO Jack Flemming and Dragon Team Captain David Guo - David Guo 2.jpg", caption: "Two generations of leaders join hands to support youth in sports for AAPI, strengthening and celebrating their marvelous culture and community." },
+  { src: "/images/gallery/bbp - Cristina Burwell 8.jpeg", caption: "Volunteers staff a table for the Bikeway Block Party, allowing community members to create their own crafts to take home." },
+  { src: "/images/gallery/Blooming - Mindful Musicians - Liyuan Ji 1.jpeg", caption: "A resident gifts a young performer a plant, representing her appreciation for bringing the joy of music to her that brought back past memories." },
   { src: "/images/gallery/Bowman Green Team - Yiling Wang 6.png", caption: "Caption placeholder" },
   { src: "/images/gallery/Bridge_school_chess_team - Su Li 1.jpg", caption: "Caption placeholder" },
   { src: "/images/gallery/Bridge_school_international_festival - Stephen Yang 1.jpg", caption: "Caption placeholder" },
