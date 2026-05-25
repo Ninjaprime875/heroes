@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://heroes.youthsteaminitiative.org/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://heroes.youthsteaminitiative.org/photos/</loc>
+    <loc>http://localhost:1313/photos/</loc>
   </url><url>
-    <loc>https://heroes.youthsteaminitiative.org/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://heroes.youthsteaminitiative.org/</loc>
+    <loc>http://localhost:1313/</loc>
   </url><url>
-    <loc>https://heroes.youthsteaminitiative.org/past/</loc>
+    <loc>http://localhost:1313/past/</loc>
   </url><url>
-    <loc>https://heroes.youthsteaminitiative.org/gallery/</loc>
+    <loc>http://localhost:1313/gallery/</loc>
   </url><url>
-    <loc>https://heroes.youthsteaminitiative.org/sponsors/</loc>
+    <loc>http://localhost:1313/sponsors/</loc>
   </url><url>
-    <loc>https://heroes.youthsteaminitiative.org/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://heroes.youthsteaminitiative.org/visitors/</loc>
+    <loc>http://localhost:1313/visitors/</loc>
   </url>
 </urlset>
