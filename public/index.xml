@@ -1,54 +1,436 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Illuminate Heritage: Lightscapes of Lexington</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Illuminate Heritage: Lightscapes of Lexington</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <copyright> </copyright>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Us</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;div class=&#34;tc mb4&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/Team logo.png&#34; style=&#34;max-width:200px;&#34; alt=&#34;Youth STEAM Initiative Logo&#34; /&gt;&#xD;&#xA;  &lt;br&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/Logo_Transparent.png&#34; style=&#34;max-width:200px;&#34; alt=&#34;Illuminate Heritage: Lightscapes of Lexington Event Logo&#34; /&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;h2 id=&#34;creative-and-animation-leadership&#34;&gt;Creative and Animation Leadership&lt;/h2&gt;&#xA;&lt;div class=&#34;flex flex-wrap justify-center mt3 mb4&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;w-50-l w-100 pa3 tc&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/anameli.png&#34; style=&#34;width:160px; height:160px; object-fit:cover; border-radius:50%;&#34; alt=&#34;Ana Meli Olivo&#34; /&gt;&#xD;&#xA;    &lt;h3 class=&#34;f4 fw6 mt3 mb1&#34;&gt;Ana Meli Olivo&lt;/h3&gt;&#xD;&#xA;    &lt;p class=&#34;f5 lh-copy mid-gray&#34;&gt;Creative Director&lt;/p&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;w-50-l w-100 pa3 tc&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/ianwang2.png&#34; style=&#34;width:160px; height:160px; object-fit:cover; border-radius:50%;&#34; alt=&#34;Ian Wang&#34; /&gt;&#xD;&#xA;    &lt;h3 class=&#34;f4 fw6 mt3 mb1&#34;&gt;Ian Wang&lt;/h3&gt;&#xD;&#xA;    &lt;p class=&#34;f5 lh-copy mid-gray&#34;&gt;Film Director&lt;/p&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;youth-leadership-team&#34;&gt;Youth Leadership Team&lt;/h2&gt;&#xA;&lt;div class=&#34;flex flex-wrap justify-center mt3 mb4&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;w-third-l w-100 pa3 tc&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/StephenYang2.png&#34; style=&#34;width:120px; height:120px; object-fit:cover; border-radius:50%;&#34; alt=&#34;Stephen Yang&#34; /&gt;&#xD;&#xA;    &lt;h3 class=&#34;f4 fw6 mt3 mb1&#34;&gt;Stephen Yang&lt;/h3&gt;&#xD;&#xA;    &lt;p class=&#34;f5 mid-gray&#34;&gt;Event Chair&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Call for Photos</title>
-      <link>http://localhost:1313/photos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/photos/</guid>
-      <description>&lt;h2 id=&#34;community-photo-submission-update&#34;&gt;Community Photo Submission Update&lt;/h2&gt;&#xA;&lt;p&gt;The community photo submission deadline officially closed on May 16, and we are deeply grateful to have received around 100 photo stories from local residents, organizations, youth groups, artists, schools, volunteers, and community leaders.&lt;/p&gt;&#xA;&lt;p&gt;Behind these 100+ photos are hundreds of ordinary people who quietly chose to step forward for the community: students mentoring younger children, parents running zero-waste stations, scouts restoring gardens and historic spaces, artists creating public art, musicians performing for seniors, volunteers organizing food drives, cultural groups building bridges across traditions, and neighbors helping neighbors in ways both large and small.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Past Events</title>
-      <link>http://localhost:1313/past/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/past/</guid>
-      <description>&lt;h2 id=&#34;past-events&#34;&gt;Past Events&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Illumination Night 2026:&lt;/strong&gt; January 30, 2026&#xA;&lt;img src=&#34;http://localhost:1313/images/illumination-night-2026-2.png&#34; alt=&#34;Illumination Night 2026&#34;&gt;&lt;/p&gt;&#xA;&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/RTzTG9UK4ic?si=8bdPp0CcypXH-j5f&amp;amp;controls=0&amp;amp;start=190&#34; title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; allowfullscreen&gt;&lt;/iframe&gt;&#xD;&#xA;&lt;p&gt;&lt;strong&gt;Diwali:&lt;/strong&gt; November 15, 2025&#xA;&lt;img src=&#34;http://localhost:1313/images/lexLuxProjection.jpg&#34; alt=&#34;Diwali 2025&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Lex Lux 2025:&lt;/strong&gt; January 11, 2025&#xA;&lt;img src=&#34;http://localhost:1313/images/lexLuxProjection3.jpg&#34; alt=&#34;Lex Lux 2025&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Photo Gallery</title>
-      <link>http://localhost:1313/gallery/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/gallery/</guid>
-      <description>&lt;div class=&#34;gallery-page&#34;&gt;&#xD;&#xA;  &lt;p&gt;Click any photo to spotlight it, then use the arrows or the close button to navigate.&lt;/p&gt;&#xD;&#xA;  &lt;div class=&#34;gallery-grid&#34; id=&#34;galleryGrid&#34;&gt;&lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;spotlight-overlay&#34; id=&#34;spotlightOverlay&#34; aria-hidden=&#34;true&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;spotlight-backdrop&#34; onclick=&#34;closeSpotlight()&#34;&gt;&lt;/div&gt;&#xD;&#xA;    &lt;div class=&#34;spotlight-panel&#34; role=&#34;dialog&#34; aria-modal=&#34;true&#34; aria-labelledby=&#34;spotlightCaption&#34;&gt;&#xD;&#xA;      &lt;button class=&#34;spotlight-close&#34; onclick=&#34;closeSpotlight()&#34; aria-label=&#34;Close spotlight&#34;&gt;×&lt;/button&gt;&#xD;&#xA;      &lt;button class=&#34;spotlight-nav spotlight-prev&#34; onclick=&#34;prevPhoto()&#34; aria-label=&#34;Previous photo&#34;&gt;‹&lt;/button&gt;&#xD;&#xA;      &lt;div class=&#34;spotlight-content&#34;&gt;&#xD;&#xA;        &lt;img id=&#34;spotlightImage&#34; src=&#34;&#34; alt=&#34;Spotlight photo&#34; /&gt;&#xD;&#xA;        &lt;div id=&#34;spotlightCaption&#34; class=&#34;spotlight-caption&#34;&gt;&lt;/div&gt;&#xD;&#xA;      &lt;/div&gt;&#xD;&#xA;      &lt;button class=&#34;spotlight-nav spotlight-next&#34; onclick=&#34;nextPhoto()&#34; aria-label=&#34;Next photo&#34;&gt;›&lt;/button&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;style&gt;&#xD;&#xA;.gallery-page {&#xD;&#xA;  max-width: 1200px;&#xD;&#xA;  margin: 0 auto;&#xD;&#xA;  padding: 1rem 0;&#xD;&#xA;}&#xD;&#xA;.gallery-grid {&#xD;&#xA;  display: grid;&#xD;&#xA;  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));&#xD;&#xA;  gap: 1rem;&#xD;&#xA;}&#xD;&#xA;.gallery-item {&#xD;&#xA;  overflow: hidden;&#xD;&#xA;  border-radius: 12px;&#xD;&#xA;  box-shadow: 0 10px 24px rgba(0,0,0,.12);&#xD;&#xA;}&#xD;&#xA;.gallery-item img {&#xD;&#xA;  width: 100%;&#xD;&#xA;  height: 100%;&#xD;&#xA;  object-fit: cover;&#xD;&#xA;  display: block;&#xD;&#xA;  cursor: pointer;&#xD;&#xA;  transition: transform .25s ease, filter .25s ease;&#xD;&#xA;}&#xD;&#xA;.gallery-item img:hover {&#xD;&#xA;  transform: scale(1.05);&#xD;&#xA;  filter: brightness(1.02);&#xD;&#xA;}&#xD;&#xA;.spotlight-overlay {&#xD;&#xA;  position: fixed;&#xD;&#xA;  inset: 0;&#xD;&#xA;  display: none;&#xD;&#xA;  justify-content: center;&#xD;&#xA;  align-items: center;&#xD;&#xA;  z-index: 9999;&#xD;&#xA;}&#xD;&#xA;.spotlight-overlay.active {&#xD;&#xA;  display: flex;&#xD;&#xA;}&#xD;&#xA;.spotlight-backdrop {&#xD;&#xA;  position: absolute;&#xD;&#xA;  inset: 0;&#xD;&#xA;  background: rgba(0,0,0,.75);&#xD;&#xA;}&#xD;&#xA;.spotlight-panel {&#xD;&#xA;  position: relative;&#xD;&#xA;  max-width: 92vw;&#xD;&#xA;  max-height: 92vh;&#xD;&#xA;  width: min(1000px, 90vw);&#xD;&#xA;  display: flex;&#xD;&#xA;  align-items: center;&#xD;&#xA;  justify-content: center;&#xD;&#xA;  gap: 1rem;&#xD;&#xA;  padding: 1rem;&#xD;&#xA;  z-index: 1;&#xD;&#xA;}&#xD;&#xA;.spotlight-content {&#xD;&#xA;  flex: 1 1 auto;&#xD;&#xA;  min-width: 0;&#xD;&#xA;  text-align: center;&#xD;&#xA;}&#xD;&#xA;.spotlight-content img {&#xD;&#xA;  max-width: 100%;&#xD;&#xA;  max-height: 75vh;&#xD;&#xA;  border-radius: 12px;&#xD;&#xA;  box-shadow: 0 18px 50px rgba(0,0,0,.35);&#xD;&#xA;}&#xD;&#xA;.spotlight-caption {&#xD;&#xA;  margin-top: 1rem;&#xD;&#xA;  color: white;&#xD;&#xA;  font-size: clamp(1rem, 1.1vw, 1.2rem);&#xD;&#xA;  line-height: 1.4;&#xD;&#xA;}&#xD;&#xA;.spotlight-close,&#xD;&#xA;.spotlight-nav {&#xD;&#xA;  background: rgba(0,0,0,.6);&#xD;&#xA;  color: white;&#xD;&#xA;  border: none;&#xD;&#xA;  border-radius: 999px;&#xD;&#xA;  width: 44px;&#xD;&#xA;  height: 44px;&#xD;&#xA;  display: inline-flex;&#xD;&#xA;  align-items: center;&#xD;&#xA;  justify-content: center;&#xD;&#xA;  cursor: pointer;&#xD;&#xA;  transition: background .2s ease;&#xD;&#xA;}&#xD;&#xA;.spotlight-close:hover,&#xD;&#xA;.spotlight-nav:hover {&#xD;&#xA;  background: rgba(0,0,0,.85);&#xD;&#xA;}&#xD;&#xA;.spotlight-prev,&#xD;&#xA;.spotlight-next {&#xD;&#xA;  font-size: 1.75rem;&#xD;&#xA;  min-width: 54px;&#xD;&#xA;  min-height: 54px;&#xD;&#xA;}&#xD;&#xA;.spotlight-close {&#xD;&#xA;  position: absolute;&#xD;&#xA;  top: -18px;&#xD;&#xA;  right: -18px;&#xD;&#xA;  width: 48px;&#xD;&#xA;  height: 48px;&#xD;&#xA;  font-size: 1.5rem;&#xD;&#xA;}&#xD;&#xA;@media (max-width: 720px) {&#xD;&#xA;  .spotlight-panel {&#xD;&#xA;    flex-direction: column;&#xD;&#xA;  }&#xD;&#xA;  .spotlight-prev,&#xD;&#xA;  .spotlight-next {&#xD;&#xA;    width: 42px;&#xD;&#xA;    height: 42px;&#xD;&#xA;  }&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;script&gt;&#xD;&#xA;const photos = [&#xD;&#xA;  { src: &#34;/images/gallery/_Shadow Joy Lab- Shirley C 1.png&#34;, caption: &#34;Over 24 families come together, sharing 36 free performances or workshops to thousands of audience members, preserving a 2000-year-old tradition of shadow puppetry.&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/2026 World 2nd place - Jian Wen 1.jpg&#34;, caption: &#34;A group of young future engineers celebrating their perserverance and dedication to STEM and Robotics at the world stage after receiving a great achievement.&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/AllStars Learning - Mira Xu 1.jpg&#34;, caption: &#34;Middle school and high school volunteers help host an event with over a dozen booths that appreciate the beauty of STEM.&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/artwalk - Cristina Burwell 6.jpg&#34;, caption: &#34;Artwalk volunteers come together, hosting a call-for-artists and placing meticulously curated submissions in windows to appreciate and promote local artists and retailers&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/BAA CEO Jack Flemming and Dragon Team Captain David Guo - David Guo 2.jpg&#34;, caption: &#34;Two generations of leaders join hands to support youth in sports for AAPI, strengthening and celebrating their marvelous culture and community.&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/bbp - Cristina Burwell 8.jpg&#34;, caption: &#34;Volunteers staff a table for the Bikeway Block Party, allowing community members to create their own crafts to take home.&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Blooming - Mindful Musicians - Liyuan Ji 1.jpg&#34;, caption: &#34;A resident gifts a young performer a plant, representing her appreciation for bringing the joy of music to her that brought back past memories.&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Bowman Green Team - Yiling Wang 6.png&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Bridge_school_chess_team - Su Li 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Bridge_school_international_festival - Stephen Yang 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Bridge_school_science_fair - Stephen Yang 2.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Melanie Lin 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Melanie Lin 10.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Melanie Lin 11.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Melanie Lin 12.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Melanie Lin 13.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Melanie Lin 14.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Melanie Lin 2.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Melanie Lin 3.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Melanie Lin 4.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Melanie Lin 5.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Melanie Lin 6.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Melanie Lin 7.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Melanie Lin 8.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Melanie Lin 9.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Qian Hu 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Qian Hu 2.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Qian Hu 3.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Qian Hu 4.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CAAL - Qian Hu 5.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CALex Youth Book Club  - Yuning Song 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CaLexLunarNewYear2026 - Houze Xu 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CaLexLunarNewYear2026 2 - Houze Xu 2.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/CALL- Culture Bridge - Anne Zhang 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/camp counselrs - Cristina Burwell 9.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/citizen heroes - Mark Manasas 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Clarke green team - Yiling Wang 4.png&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Cub Scouts Pack 137 - Jing Zheng 2.jpeg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Diamond green team - Yiling Wang 5.png&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Dragon Program Chair Lixin Qin and Dragon Team Captain David Guo with Fellow Dragon Team Members and Supporters at Belmont Finish Line - David Guo 5.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Dragon Team Captains William Qin, David Guo and Supporter Qian Ge (NECAA Chair) - David Guo 3.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Dragon Team Chair Lixin Qin and Head Coach Heidi - David Guo 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Excellent Youth Participation Inspired by Dragon Team Initiatives and Well Organized Activities - David Guo 4.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/hands - Cristina Burwell 7.jpeg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Harrington Green Team - Yiling Wang 1.png&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Helpful Hands - Justin Wang 2.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Helpful Hands - Justin Wang 3.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Helpful Hands delivery - Justin Wang 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/hope - Cristina Burwell 5.JPG&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/horse - Cristina Burwell 3.jpeg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/International Fun Fest - Mark Manasas 3.jpeg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/International Fun Fest - Mark Manasas 5.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Juliana Yin Winning the Age Group Championship at Belmont AAPI 5k Run Finish Line - David Guo 6.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/KOLex - Youngsheen Park 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Lafayette Returns  - Harry Forsdick 1.png&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/LexFarm - Sara Bothwell Allen 1.jpeg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Lexington Field &amp; Garden Club - Regina Sutton 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Lexington Field &amp; Garden Club - Regina Sutton 3.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Lexington Field &amp; Garden Club - Regina Sutton 4.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Lexington Field &amp; Garden Club - Regina Sutton 5.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Lexington Field &amp; Garden Club - Regina Sutton 6.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Lexington Field &amp; Garden Club - Regina Sutton 9.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Lexington Field &amp; Garden Club- Regina Sutton 2.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Lexington Field &amp; Garden Club- Regina Sutton 7.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Lexington Field &amp; Garden Club- Regina Sutton 8.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/lexlux - Cristina Burwell 4.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Luckie Art Students Volunteers - Yue Zheng 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Lyceum calendar turning - Mark Manasas 4.png&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Mrs. Carpenter and CCC kids - Yiling Wang 3.png&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/NLCC - Elizabeth Xu 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/NLCC - Elizabeth Xu 2.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/NLCC - Elizabeth Xu 3.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/NLCC - Elizabeth Xu 4.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Pack 160 - Charles Miglietti 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/parade - Cristina Burwell 1.jpeg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/PARADE 2 - Cristina Burwell 2.jpeg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/porchfest - Cristina Burwell 10.jpeg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/PTA leaders hosting events_2023 - Yiling Wang 2.png&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Rainbow HLDC Bedford - Lili Feng.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Reenactments 2 - Bruce Leader 2.jpeg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Reenactments- Bruce Leader 1.jpeg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Scibowl - Zhengjia Yang 1.png&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Shadow Joy Lab - Liang Cao 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Shadow Joy Lab - Liang Cao 2.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Shadow Joy Lab - Liang Cao 3.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Troop 10 - Charles Miglietti 2.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Troop 10 - Chip Webb 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Troop 10 - Chip Webb 2.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Troop 10 - Chip Webb 3.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Troop 10 - Chip Webb 4.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Troop 10 - Chip Webb 5.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Troop 10 - Chip Webb 6.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Troop 10 - Chip Webb 7.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Troop 10 - Chip Webb 9.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Troop 119 - Jing Zheng 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/VO250 - Sara Bothwell Allen 2.jpeg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/VOID Robotics - Grace Fan 1.jpeg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/William Diamond Jr Fife &amp; Drum - Chip Webb 8.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Winsor Robotics - Lucy Yin 1.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Winsor Robotics - Lucy Yin 2.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Winsor Robotics - Lucy Yin 3.jpg&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Winsor Robotics - Lucy Yin 5.JPG&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;  { src: &#34;/images/gallery/Winsor Robotics - Lucy Yin 6.JPG&#34;, caption: &#34;Caption placeholder&#34; },&#xD;&#xA;];&#xD;&#xA;&#xD;&#xA;const galleryGrid = document.getElementById(&#39;galleryGrid&#39;);&#xD;&#xA;const spotlightOverlay = document.getElementById(&#39;spotlightOverlay&#39;);&#xD;&#xA;const spotlightImage = document.getElementById(&#39;spotlightImage&#39;);&#xD;&#xA;const spotlightCaption = document.getElementById(&#39;spotlightCaption&#39;);&#xD;&#xA;let activeIndex = 0;&#xD;&#xA;&#xD;&#xA;function buildGallery() {&#xD;&#xA;  photos.forEach((photo, index) =&gt; {&#xD;&#xA;    const item = document.createElement(&#39;div&#39;);&#xD;&#xA;    item.className = &#39;gallery-item&#39;;&#xD;&#xA;    const img = document.createElement(&#39;img&#39;);&#xD;&#xA;    img.src = photo.src;&#xD;&#xA;    img.alt = photo.caption;&#xD;&#xA;    img.dataset.index = index;&#xD;&#xA;    img.loading = &#39;lazy&#39;;&#xD;&#xA;    img.onclick = () =&gt; openSpotlight(index);&#xD;&#xA;    item.appendChild(img);&#xD;&#xA;    galleryGrid.appendChild(item);&#xD;&#xA;  });&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;function openSpotlight(index) {&#xD;&#xA;  activeIndex = index;&#xD;&#xA;  updateSpotlight();&#xD;&#xA;  spotlightOverlay.classList.add(&#39;active&#39;);&#xD;&#xA;  spotlightOverlay.setAttribute(&#39;aria-hidden&#39;, &#39;false&#39;);&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;function closeSpotlight() {&#xD;&#xA;  spotlightOverlay.classList.remove(&#39;active&#39;);&#xD;&#xA;  spotlightOverlay.setAttribute(&#39;aria-hidden&#39;, &#39;true&#39;);&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;function updateSpotlight() {&#xD;&#xA;  const photo = photos[activeIndex];&#xD;&#xA;  spotlightImage.src = photo.src;&#xD;&#xA;  spotlightImage.alt = photo.caption;&#xD;&#xA;  spotlightCaption.textContent = photo.caption;&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;function prevPhoto() {&#xD;&#xA;  activeIndex = (activeIndex - 1 + photos.length) % photos.length;&#xD;&#xA;  updateSpotlight();&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;function nextPhoto() {&#xD;&#xA;  activeIndex = (activeIndex + 1) % photos.length;&#xD;&#xA;  updateSpotlight();&#xD;&#xA;}&#xD;&#xA;&#xD;&#xA;window.addEventListener(&#39;keydown&#39;, (event) =&gt; {&#xD;&#xA;  if (!spotlightOverlay.classList.contains(&#39;active&#39;)) {&#xD;&#xA;    return;&#xD;&#xA;  }&#xD;&#xA;&#xD;&#xA;  if (event.key === &#39;Escape&#39;) {&#xD;&#xA;    closeSpotlight();&#xD;&#xA;  }&#xD;&#xA;  if (event.key === &#39;ArrowLeft&#39;) {&#xD;&#xA;    prevPhoto();&#xD;&#xA;  }&#xD;&#xA;  if (event.key === &#39;ArrowRight&#39;) {&#xD;&#xA;    nextPhoto();&#xD;&#xA;  }&#xD;&#xA;});&#xD;&#xA;&#xD;&#xA;buildGallery();&#xD;&#xA;&lt;/script&gt;</description>
-    </item>
-    <item>
-      <title>Sponsors</title>
-      <link>http://localhost:1313/sponsors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/sponsors/</guid>
-      <description>&lt;p&gt;We invite businesses, families, and community partners to support this youth-led public celebration honoring the people and groups whose everyday contributions strengthen Lexington through art, technology, storytelling, and civic pride.&lt;/p&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;our-sponsors&#34;&gt;Our Sponsors&lt;/h2&gt;&#xA;&lt;h3 id=&#34;-gold-sponsors&#34;&gt;🥇 Gold Sponsors&lt;/h3&gt;&#xA;&lt;div class=&#34;flex flex-wrap justify-center mt3 mb4&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;w-50-l w-100 pa3 tc&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/caellia.png&#34; style=&#34;width:160px; height:160px; object-fit:cover; border-radius:50%;&#34; alt=&#34;Caellia Logo&#34; /&gt;&#xD;&#xA;    &lt;h3 class=&#34;f4 fw6 mt2 mb1&#34;&gt;Caellia&lt;/h3&gt;&#xD;&#xA;    &lt;a href=&#34;https://caellia.com/&#34; target=&#34;_blank&#34; class=&#34;f5 link dim dark-gray&#34;&gt;Learn more →&lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-silver-sponsors&#34;&gt;🥈 Silver Sponsors&lt;/h3&gt;&#xA;&lt;div class=&#34;flex flex-wrap justify-center mt3 mb4&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;w-50-l w-100 pa3 tc&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/CultureBridge.png&#34; style=&#34;width:160px; height:160px; object-fit:cover; border-radius:30%;&#34; alt=&#34;Cultural Bridge Logo&#34; /&gt;&#xD;&#xA;    &lt;h3 class=&#34;f4 fw6 mt2 mb1&#34;&gt;Cultural Bridge Youth Program&lt;/h3&gt;&#xD;&#xA;    &lt;a href=&#34;https://caal-ma.org/youthcouncil/culture-bridge/&#34; target=&#34;_blank&#34; class=&#34;f5 link dim dark-gray&#34;&gt;Learn more →&lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;w-50-l w-100 pa3 tc&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/BejingDining.png&#34; style=&#34;width:160px; height:160px; object-fit:cover; border-radius:50%;&#34; alt=&#34;Beijing Chinese Dining Logo&#34; /&gt;&#xD;&#xA;    &lt;h3 class=&#34;f4 fw6 mt2 mb1&#34;&gt;Beijing Chinese Dining&lt;/h3&gt;&#xD;&#xA;    &lt;a href=&#34;https://www.beijingchinesedining.com/&#34; target=&#34;_blank&#34; class=&#34;f5 link dim dark-gray&#34;&gt;Learn more →&lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;-bronze-sponsors&#34;&gt;🥉 Bronze Sponsors&lt;/h3&gt;&#xA;&lt;div class=&#34;flex flex-wrap justify-center mt3 mb4&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;w-50-l w-100 pa3 tc&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/robot.png&#34; style=&#34;width:160px; height:160px; object-fit:cover; border-radius:50%;&#34; alt=&#34;Robotfun Academy Logo&#34; /&gt;&#xD;&#xA;    &lt;h3 class=&#34;f4 fw6 mt2 mb1&#34;&gt;Robotfun Academy&lt;/h3&gt;&#xD;&#xA;    &lt;a href=&#34;https://www.robotfunacademy.com/&#34; target=&#34;_blank&#34; class=&#34;f5 link dim dark-gray&#34;&gt;Learn more →&lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;w-50-l w-100 pa3 tc&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;http://localhost:1313/images/shoplexington.jpg&#34; style=&#34;width:240px; height:160px; object-fit:cover; border-radius:20%;&#34; alt=&#34;Shop Lexington Logo&#34; /&gt;&#xD;&#xA;    &lt;h3 class=&#34;f4 fw6 mt2 mb1&#34;&gt;Shop Lexington&lt;/h3&gt;&#xD;&#xA;    &lt;a href=&#34;https://shoplexingtonfirst.com/&#34; target=&#34;_blank&#34; class=&#34;f5 link dim dark-gray&#34;&gt;Learn more →&lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;sponsorship-levels&#34;&gt;Sponsorship Levels&lt;/h2&gt;&#xA;&lt;div class=&#34;flex flex-wrap justify-center mt3 mb4&#34;&gt;&#xD;&#xA;  &lt;div class=&#34;w-50-l w-100 pa3&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;ba b--light-silver pa3 br2 h-100&#34;&gt;&#xD;&#xA;      &lt;h3 class=&#34;f3 fw7 mt0&#34; style=&#34;color:#CFB53B;&#34;&gt;🥇 Gold: $1,000+&lt;/h3&gt;&#xD;&#xA;      &lt;ul class=&#34;f5 lh-copy&#34;&gt;&#xD;&#xA;        &lt;li&gt;Major logo placement on website, flyers, and event signage&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Exclusive 30-second display during the projection mapping show&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Featured website placement with QR code and shout-outs during opening remarks.&lt;/li&gt;&#xD;&#xA;      &lt;/ul&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;w-50-l w-100 pa3&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;ba b--light-silver pa3 br2 h-100&#34;&gt;&#xD;&#xA;      &lt;h3 class=&#34;f3 fw7 mt0&#34; style=&#34;color:#A8A9AD;&#34;&gt;🥈 Silver: $500-999&lt;/h3&gt;&#xD;&#xA;      &lt;ul class=&#34;f5 lh-copy&#34;&gt;&#xD;&#xA;        &lt;li&gt;Logo included on the event website and physical signage&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Formal recognition during the opening remarks&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Name and link listed on the official sponsor page&lt;/li&gt;&#xD;&#xA;      &lt;/ul&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;w-50-l w-100 pa3&#34;&gt;&#xD;&#xA;    &lt;div class=&#34;ba b--light-silver pa3 br2 h-100&#34;&gt;&#xD;&#xA;      &lt;h3 class=&#34;f3 fw7 mt0&#34; style=&#34;color:#b5a642;&#34;&gt;🥉 Bronze: $100-499&lt;/h3&gt;&#xD;&#xA;      &lt;ul class=&#34;f5 lh-copy&#34;&gt;&#xD;&#xA;        &lt;li&gt;Name listed in the supporter appreciation section and sponsor page&lt;/li&gt;&#xD;&#xA;        &lt;li&gt;Inclusion in the collective public thank-you recognition&lt;/li&gt;&#xD;&#xA;      &lt;/ul&gt;&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;why-sponsor&#34;&gt;Why Sponsor?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Support youth education and innovation in STEAM&lt;/li&gt;&#xA;&lt;li&gt;Increase visibility within the Lexington community&lt;/li&gt;&#xA;&lt;li&gt;Align your brand with creativity, leadership, and service&lt;/li&gt;&#xA;&lt;li&gt;Celebrate the citizens who make Lexington strong&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;h2 id=&#34;grants--funding&#34;&gt;Grants &amp;amp; Funding&lt;/h2&gt;&#xA;&lt;div class=&#34;tc mt4 mb4&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/CEL_10Years_Final.png&#34; style=&#34;max-width:200px;&#34; alt=&#34;Community Endowment of Lexington&#34; /&gt;&#xD;&#xA;  &lt;h3 class=&#34;f4 fw6 mt3&#34;&gt;Community Endowment of Lexington&lt;/h3&gt;&#xD;&#xA;  &lt;p class=&#34;f5 lh-copy measure center mid-gray&#34;&gt;&#34;The Community Endowment of Lexington enhances the quality of life for Lexington citizens. CEL awards grants to nonprofits and town agencies working in the areas of health and human services, arts and culture, the environment, and community building.&#34;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Visitor Stats</title>
-      <link>http://localhost:1313/visitors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/visitors/</guid>
-      <description>&lt;div class=&#34;tc mt4 mb4&#34;&gt;&#xD;&#xA;  &lt;h2 class=&#34;f3 fw6&#34;&gt;Live Visitor Statistics&lt;/h2&gt;&#xD;&#xA;  &lt;p class=&#34;f5 mid-gray&#34;&gt;See who&#39;s been visiting our site in real time.&lt;/p&gt;&#xD;&#xA;  &lt;div class=&#34;mt4&#34;&gt;&#xD;&#xA;    &lt;a href=&#34;https://heroes.goatcounter.com&#34; target=&#34;_blank&#34; class=&#34;f5 link dim dark-gray&#34;&gt;&#xD;&#xA;      View full stats dashboard →&#xD;&#xA;    &lt;/a&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;  &lt;div class=&#34;mt4&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;https://heroes.goatcounter.com/counter//.svg&#34; alt=&#34;Visitor Count&#34; /&gt;&#xD;&#xA;  &lt;/div&gt;&#xD;&#xA;&lt;/div&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Illuminate Heritage: Lightscapes of Lexington</title><link>https://heroes.youthsteaminitiative.org/</link><description>Recent content on Illuminate Heritage: Lightscapes of Lexington</description><generator>Hugo</generator><language>en-us</language><copyright/><atom:link href="https://heroes.youthsteaminitiative.org/index.xml" rel="self" type="application/rss+xml"/><item><title>About Us</title><link>https://heroes.youthsteaminitiative.org/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://heroes.youthsteaminitiative.org/about/</guid><description>&lt;div class="tc mb4"&gt;
+ &lt;img src="https://heroes.youthsteaminitiative.org/images/Team logo.png" style="max-width:200px;" alt="Youth STEAM Initiative Logo" /&gt;
+ &lt;br&gt;
+ &lt;img src="https://heroes.youthsteaminitiative.org/images/Logo_Transparent.png" style="max-width:200px;" alt="Illuminate Heritage: Lightscapes of Lexington Event Logo" /&gt;
+&lt;/div&gt;
+&lt;h2 id="creative-and-animation-leadership"&gt;Creative and Animation Leadership&lt;/h2&gt;
+&lt;div class="flex flex-wrap justify-center mt3 mb4"&gt;
+ &lt;div class="w-50-l w-100 pa3 tc"&gt;
+ &lt;img src="https://heroes.youthsteaminitiative.org/images/anameli.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Ana Meli Olivo" /&gt;
+ &lt;h3 class="f4 fw6 mt3 mb1"&gt;Ana Meli Olivo&lt;/h3&gt;
+ &lt;p class="f5 lh-copy mid-gray"&gt;Creative Director&lt;/p&gt;
+ &lt;/div&gt;
+ &lt;div class="w-50-l w-100 pa3 tc"&gt;
+ &lt;img src="https://heroes.youthsteaminitiative.org/images/ianwang2.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Ian Wang" /&gt;
+ &lt;h3 class="f4 fw6 mt3 mb1"&gt;Ian Wang&lt;/h3&gt;
+ &lt;p class="f5 lh-copy mid-gray"&gt;Film Director&lt;/p&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id="youth-leadership-team"&gt;Youth Leadership Team&lt;/h2&gt;
+&lt;div class="flex flex-wrap justify-center mt3 mb4"&gt;
+ &lt;div class="w-third-l w-100 pa3 tc"&gt;
+ &lt;img src="https://heroes.youthsteaminitiative.org/images/StephenYang2.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Stephen Yang" /&gt;
+ &lt;h3 class="f4 fw6 mt3 mb1"&gt;Stephen Yang&lt;/h3&gt;
+ &lt;p class="f5 mid-gray"&gt;Event Chair&lt;/p&gt;</description></item><item><title>Call for Photos</title><link>https://heroes.youthsteaminitiative.org/photos/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://heroes.youthsteaminitiative.org/photos/</guid><description>&lt;h2 id="community-photo-submission-update"&gt;Community Photo Submission Update&lt;/h2&gt;
+&lt;p&gt;The community photo submission deadline officially closed on May 16, and we are deeply grateful to have received around 100 photo stories from local residents, organizations, youth groups, artists, schools, volunteers, and community leaders.&lt;/p&gt;
+&lt;p&gt;Behind these 100+ photos are hundreds of ordinary people who quietly chose to step forward for the community: students mentoring younger children, parents running zero-waste stations, scouts restoring gardens and historic spaces, artists creating public art, musicians performing for seniors, volunteers organizing food drives, cultural groups building bridges across traditions, and neighbors helping neighbors in ways both large and small.&lt;/p&gt;</description></item><item><title>Past Events</title><link>https://heroes.youthsteaminitiative.org/past/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://heroes.youthsteaminitiative.org/past/</guid><description>&lt;h2 id="past-events"&gt;Past Events&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Illumination Night 2026:&lt;/strong&gt; January 30, 2026
+&lt;img src="https://heroes.youthsteaminitiative.org/images/illumination-night-2026-2.png" alt="Illumination Night 2026"&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/RTzTG9UK4ic?si=8bdPp0CcypXH-j5f&amp;amp;controls=0&amp;amp;start=190" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;strong&gt;Diwali:&lt;/strong&gt; November 15, 2025
+&lt;img src="https://heroes.youthsteaminitiative.org/images/lexLuxProjection.jpg" alt="Diwali 2025"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Lex Lux 2025:&lt;/strong&gt; January 11, 2025
+&lt;img src="https://heroes.youthsteaminitiative.org/images/lexLuxProjection3.jpg" alt="Lex Lux 2025"&gt;&lt;/p&gt;</description></item><item><title>Photo Gallery</title><link>https://heroes.youthsteaminitiative.org/gallery/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://heroes.youthsteaminitiative.org/gallery/</guid><description>&lt;div class="gallery-page"&gt;
+ &lt;p&gt;Click any photo to spotlight it, then use the arrows or the close button to navigate.&lt;/p&gt;
+ &lt;div class="gallery-grid" id="galleryGrid"&gt;&lt;/div&gt;
+ &lt;div class="spotlight-overlay" id="spotlightOverlay" aria-hidden="true"&gt;
+ &lt;div class="spotlight-backdrop" onclick="closeSpotlight()"&gt;&lt;/div&gt;
+ &lt;div class="spotlight-panel" role="dialog" aria-modal="true" aria-labelledby="spotlightCaption"&gt;
+ &lt;button class="spotlight-close" onclick="closeSpotlight()" aria-label="Close spotlight"&gt;×&lt;/button&gt;
+ &lt;button class="spotlight-nav spotlight-prev" onclick="prevPhoto()" aria-label="Previous photo"&gt;‹&lt;/button&gt;
+ &lt;div class="spotlight-content"&gt;
+ &lt;img id="spotlightImage" src="" alt="Spotlight photo" /&gt;
+ &lt;div id="spotlightCaption" class="spotlight-caption"&gt;&lt;/div&gt;
+ &lt;/div&gt;
+ &lt;button class="spotlight-nav spotlight-next" onclick="nextPhoto()" aria-label="Next photo"&gt;›&lt;/button&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;style&gt;
+.gallery-page {
+ max-width: 1200px;
+ margin: 0 auto;
+ padding: 1rem 0;
+}
+.gallery-grid {
+ display: grid;
+ grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+ gap: 1rem;
+}
+.gallery-item {
+ overflow: hidden;
+ border-radius: 12px;
+ box-shadow: 0 10px 24px rgba(0,0,0,.12);
+}
+.gallery-item img {
+ width: 100%;
+ height: 100%;
+ object-fit: cover;
+ display: block;
+ cursor: pointer;
+ transition: transform .25s ease, filter .25s ease;
+}
+.gallery-item img:hover {
+ transform: scale(1.05);
+ filter: brightness(1.02);
+}
+.spotlight-overlay {
+ position: fixed;
+ inset: 0;
+ display: none;
+ justify-content: center;
+ align-items: center;
+ z-index: 9999;
+}
+.spotlight-overlay.active {
+ display: flex;
+}
+.spotlight-backdrop {
+ position: absolute;
+ inset: 0;
+ background: rgba(0,0,0,.75);
+}
+.spotlight-panel {
+ position: relative;
+ max-width: 92vw;
+ max-height: 92vh;
+ width: min(1000px, 90vw);
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ gap: 1rem;
+ padding: 1rem;
+ z-index: 1;
+}
+.spotlight-content {
+ flex: 1 1 auto;
+ min-width: 0;
+ text-align: center;
+}
+.spotlight-content img {
+ max-width: 100%;
+ max-height: 75vh;
+ border-radius: 12px;
+ box-shadow: 0 18px 50px rgba(0,0,0,.35);
+}
+.spotlight-caption {
+ margin-top: 1rem;
+ color: white;
+ font-size: clamp(1rem, 1.1vw, 1.2rem);
+ line-height: 1.4;
+}
+.spotlight-close,
+.spotlight-nav {
+ background: rgba(0,0,0,.6);
+ color: white;
+ border: none;
+ border-radius: 999px;
+ width: 44px;
+ height: 44px;
+ display: inline-flex;
+ align-items: center;
+ justify-content: center;
+ cursor: pointer;
+ transition: background .2s ease;
+}
+.spotlight-close:hover,
+.spotlight-nav:hover {
+ background: rgba(0,0,0,.85);
+}
+.spotlight-prev,
+.spotlight-next {
+ font-size: 1.75rem;
+ min-width: 54px;
+ min-height: 54px;
+}
+.spotlight-close {
+ position: absolute;
+ top: -18px;
+ right: -18px;
+ width: 48px;
+ height: 48px;
+ font-size: 1.5rem;
+}
+@media (max-width: 720px) {
+ .spotlight-panel {
+ flex-direction: column;
+ }
+ .spotlight-prev,
+ .spotlight-next {
+ width: 42px;
+ height: 42px;
+ }
+}
+&lt;/style&gt;
+&lt;script&gt;
+const photos = [
+ { src: "/images/gallery/_Shadow Joy Lab- Shirley C 1.png", caption: "Over 24 families come together, sharing 36 free performances or workshops to thousands of audience members, preserving a 2000-year-old tradition of shadow puppetry." },
+ { src: "/images/gallery/2026 World 2nd place - Jian Wen 1.jpg", caption: "A group of young future engineers celebrating their perserverance and dedication to STEM and Robotics at the world stage after receiving a great achievement." },
+ { src: "/images/gallery/AllStars Learning - Mira Xu 1.jpg", caption: "Middle school and high school volunteers help host an event with over a dozen booths that appreciate the beauty of STEM." },
+ { src: "/images/gallery/artwalk - Cristina Burwell 6.jpg", caption: "Artwalk volunteers come together, hosting a call-for-artists and placing meticulously curated submissions in windows to appreciate and promote local artists and retailers" },
+ { src: "/images/gallery/BAA CEO Jack Flemming and Dragon Team Captain David Guo - David Guo 2.jpg", caption: "Two generations of leaders join hands to support youth in sports for AAPI, strengthening and celebrating their marvelous culture and community." },
+ { src: "/images/gallery/bbp - Cristina Burwell 8.jpg", caption: "Volunteers staff a table for the Bikeway Block Party, allowing community members to create their own crafts to take home." },
+ { src: "/images/gallery/Blooming - Mindful Musicians - Liyuan Ji 1.jpg", caption: "A resident gifts a young performer a plant, representing her appreciation for bringing the joy of music to her that brought back past memories." },
+ { src: "/images/gallery/Bowman Green Team - Yiling Wang 6.png", caption: "The Bowman Elementary School Green Team, helping students throw away lunch in an eco-friendly and efficient way for the environment." },
+ { src: "/images/gallery/Bridge_school_chess_team - Su Li 1.jpg", caption: "The Bridge School Chess Team competed and did a wonderful job at the Hurvitz cup chess tournament, demonstrating their resilliance and strength." },
+ { src: "/images/gallery/Bridge_school_international_festival - Stephen Yang 1.jpg", caption: "The Bridge School PTA hosted a science fair for students, appreciating the beauty of the discoveries and experiments of science." },
+ { src: "/images/gallery/Bridge_school_science_fair - Stephen Yang 2.jpg", caption: "The Bridge School held an international festival for families, giving the opportunity to share and appreciate the beauties of the culture of the Bridge community." },
+ { src: "/images/gallery/CAAL - Melanie Lin 1.jpg", caption: "CAAL secretary Jian Deng participates not only as a volunteer for the AAPI race, but also ran the fastest in the race." },
+ { src: "/images/gallery/CAAL - Melanie Lin 10.jpg", caption: "CAAL Board members perform \"Fairytale of the Boat\" for the audience at Lunar New Year." },
+ { src: "/images/gallery/CAAL - Melanie Lin 11.jpg", caption: "Each year, some of the region's troupes perform at the CAAL Lunar Year Gala." },
+ { src: "/images/gallery/CAAL - Melanie Lin 12.jpg", caption: "The audience of the CAAL Lunar New Year Gala, a full community appreciating the cultural beauty despite a snow day." },
+ { src: "/images/gallery/CAAL - Melanie Lin 13.jpg", caption: "A record of over 600 runners and walkers at the AAPI 5k with a perfectly suiting theme of Better Together: From Lex250 to America250" },
+ { src: "/images/gallery/CAAL - Melanie Lin 14.jpg", caption: "The Asian Music Festival is held in Lexington every two years, nicknamed \"Tanglewood in Lexington\". These are performers at the Asian Music Festival in 2024." },
+ { src: "/images/gallery/CAAL - Melanie Lin 2.jpg", caption: "Over 100 volunteers supported the AAPI 5k Event of 2026." },
+ { src: "/images/gallery/CAAL - Melanie Lin 3.jpg", caption: "A famous singer and Lexington resident Yan Lian sang the National Anthem at the AAPI 5K Run and Walk." },
+ { src: "/images/gallery/CAAL - Melanie Lin 4.jpg", caption: "Lexington's AAPI 5K hosted by CAAL and HEY Runners Club marks the 5th year around and with a record of over 600 people attending, the theme of Better Together." },
+ { src: "/images/gallery/CAAL - Melanie Lin 5.jpg", caption: "Volunteers provided Asian cultural food for runners and walkers at the AAPI 5K to appreciate and enjoy a taste of AAPI food." },
+ { src: "/images/gallery/CAAL - Melanie Lin 6.jpg", caption: "Volunteers at the AAPI 5K manage recycle bins to run a green race for runners and walkers. " },
+ { src: "/images/gallery/CAAL - Melanie Lin 7.jpg", caption: "CAAL's united group photo at the end of the Patriot's Day Parade." },
+ { src: "/images/gallery/CAAL - Melanie Lin 8.jpg", caption: "The CAAL Dragon team plays dual dragons at the Patriots Day Parade." },
+ { src: "/images/gallery/CAAL - Melanie Lin 9.jpg", caption: "CAAL organizes the annual Lunar New Year celebration for the town of Lexington, quoted as the best lunar new year performance in the region." },
+ { src: "/images/gallery/CAAL - Qian Hu 1.jpg", caption: "Two dancers dressed in marvelous Mongolian costumes perform for the crowd, one gifting a silver bowl to her grandmother, a symbol of respect --- representing the beauty of a generation passing to another." },
+ { src: "/images/gallery/CAAL - Qian Hu 2.jpg", caption: "The opening dance of the 2026 CAAL Lunar New Year, ushering in the year of the Horse, depicting blossoms of flowers and lively, galloping horses." },
+ { src: "/images/gallery/CAAL - Qian Hu 3.jpg", caption: "A busy group of young girls went through many, many performances on the same day yet still put a beautiful show for the audience. Their energetic dance movements representing \"Fish\", a homophone in Chinese for abundance, captivated the audience and brought them a deep, cultural message of good wish" },
+ { src: "/images/gallery/CAAL - Qian Hu 4.jpg", caption: "The dance of Mulan tells the story of a young girl who sacrificed her youth to help her father in the army, a story of courage." },
+ { src: "/images/gallery/CAAL - Qian Hu 5.jpg", caption: "The debut of a Chinese folk waist drum performance at the Lexington 2026 Patriots Day Parade, spending much time and effort to prepare." },
+ { src: "/images/gallery/CALex Youth Book Club - Yuning Song 1.jpg", caption: "The first elementary student-run club in town, creating their own Jeopardy questions, games, exploring reading and science, and donating to the community center every Thanksgiving." },
+ { src: "/images/gallery/CaLexLunarNewYear2026 - Houze Xu 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/CaLexLunarNewYear2026 2 - Houze Xu 2.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/CALL- Culture Bridge - Anne Zhang 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/camp counselrs - Cristina Burwell 9.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/citizen heroes - Mark Manasas 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Clarke green team - Yiling Wang 4.png", caption: "Caption placeholder" },
+ { src: "/images/gallery/Cub Scouts Pack 137 - Jing Zheng 2.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Diamond green team - Yiling Wang 5.png", caption: "Caption placeholder" },
+ { src: "/images/gallery/Dragon Program Chair Lixin Qin and Dragon Team Captain David Guo with Fellow Dragon Team Members and Supporters at Belmont Finish Line - David Guo 5.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Dragon Team Captains William Qin, David Guo and Supporter Qian Ge (NECAA Chair) - David Guo 3.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Dragon Team Chair Lixin Qin and Head Coach Heidi - David Guo 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Excellent Youth Participation Inspired by Dragon Team Initiatives and Well Organized Activities - David Guo 4.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/hands - Cristina Burwell 7.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Harrington Green Team - Yiling Wang 1.png", caption: "Caption placeholder" },
+ { src: "/images/gallery/Helpful Hands - Justin Wang 2.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Helpful Hands - Justin Wang 3.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Helpful Hands delivery - Justin Wang 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/hope - Cristina Burwell 5.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/horse - Cristina Burwell 3.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/International Fun Fest - Mark Manasas 3.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/International Fun Fest - Mark Manasas 5.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Juliana Yin Winning the Age Group Championship at Belmont AAPI 5k Run Finish Line - David Guo 6.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/KOLex - Youngsheen Park 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Lafayette Returns - Harry Forsdick 1.png", caption: "Caption placeholder" },
+ { src: "/images/gallery/LexFarm - Sara Bothwell Allen 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Lexington Field &amp; Garden Club - Regina Sutton 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Lexington Field &amp; Garden Club - Regina Sutton 3.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Lexington Field &amp; Garden Club - Regina Sutton 4.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Lexington Field &amp; Garden Club - Regina Sutton 5.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Lexington Field &amp; Garden Club - Regina Sutton 6.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Lexington Field &amp; Garden Club - Regina Sutton 9.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Lexington Field &amp; Garden Club- Regina Sutton 2.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Lexington Field &amp; Garden Club- Regina Sutton 7.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Lexington Field &amp; Garden Club- Regina Sutton 8.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/lexlux - Cristina Burwell 4.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Luckie Art Students Volunteers - Yue Zheng 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Lyceum calendar turning - Mark Manasas 4.png", caption: "Caption placeholder" },
+ { src: "/images/gallery/Mrs. Carpenter and CCC kids - Yiling Wang 3.png", caption: "Caption placeholder" },
+ { src: "/images/gallery/NLCC - Elizabeth Xu 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/NLCC - Elizabeth Xu 2.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/NLCC - Elizabeth Xu 3.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/NLCC - Elizabeth Xu 4.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Pack 160 - Charles Miglietti 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/parade - Cristina Burwell 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/PARADE 2 - Cristina Burwell 2.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/porchfest - Cristina Burwell 10.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/PTA leaders hosting events_2023 - Yiling Wang 2.png", caption: "Caption placeholder" },
+ { src: "/images/gallery/Rainbow HLDC Bedford - Lili Feng.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Reenactments 2 - Bruce Leader 2.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Reenactments- Bruce Leader 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Scibowl - Zhengjia Yang 1.png", caption: "Caption placeholder" },
+ { src: "/images/gallery/Shadow Joy Lab - Liang Cao 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Shadow Joy Lab - Liang Cao 2.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Shadow Joy Lab - Liang Cao 3.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Troop 10 - Charles Miglietti 2.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Troop 10 - Chip Webb 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Troop 10 - Chip Webb 2.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Troop 10 - Chip Webb 3.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Troop 10 - Chip Webb 4.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Troop 10 - Chip Webb 5.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Troop 10 - Chip Webb 6.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Troop 10 - Chip Webb 7.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Troop 10 - Chip Webb 9.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Troop 119 - Jing Zheng 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/VO250 - Sara Bothwell Allen 2.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/VOID Robotics - Grace Fan 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/William Diamond Jr Fife &amp; Drum - Chip Webb 8.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Winsor Robotics - Lucy Yin 1.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Winsor Robotics - Lucy Yin 2.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Winsor Robotics - Lucy Yin 3.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Winsor Robotics - Lucy Yin 5.jpg", caption: "Caption placeholder" },
+ { src: "/images/gallery/Winsor Robotics - Lucy Yin 6.jpg", caption: "Caption placeholder" },
+];
+
+const galleryGrid = document.getElementById('galleryGrid');
+const spotlightOverlay = document.getElementById('spotlightOverlay');
+const spotlightImage = document.getElementById('spotlightImage');
+const spotlightCaption = document.getElementById('spotlightCaption');
+let activeIndex = 0;
+
+function buildGallery() {
+ photos.forEach((photo, index) =&gt; {
+ const item = document.createElement('div');
+ item.className = 'gallery-item';
+ const img = document.createElement('img');
+ img.src = photo.src;
+ img.alt = photo.caption;
+ img.dataset.index = index;
+ img.loading = 'lazy';
+ img.onclick = () =&gt; openSpotlight(index);
+ item.appendChild(img);
+ galleryGrid.appendChild(item);
+ });
+}
+
+function openSpotlight(index) {
+ activeIndex = index;
+ updateSpotlight();
+ spotlightOverlay.classList.add('active');
+ spotlightOverlay.setAttribute('aria-hidden', 'false');
+}
+
+function closeSpotlight() {
+ spotlightOverlay.classList.remove('active');
+ spotlightOverlay.setAttribute('aria-hidden', 'true');
+}
+
+function updateSpotlight() {
+ const photo = photos[activeIndex];
+ spotlightImage.src = photo.src;
+ spotlightImage.alt = photo.caption;
+ spotlightCaption.textContent = photo.caption;
+}
+
+function prevPhoto() {
+ activeIndex = (activeIndex - 1 + photos.length) % photos.length;
+ updateSpotlight();
+}
+
+function nextPhoto() {
+ activeIndex = (activeIndex + 1) % photos.length;
+ updateSpotlight();
+}
+
+window.addEventListener('keydown', (event) =&gt; {
+ if (!spotlightOverlay.classList.contains('active')) {
+ return;
+ }
+
+ if (event.key === 'Escape') {
+ closeSpotlight();
+ }
+ if (event.key === 'ArrowLeft') {
+ prevPhoto();
+ }
+ if (event.key === 'ArrowRight') {
+ nextPhoto();
+ }
+});
+
+buildGallery();
+&lt;/script&gt;</description></item><item><title>Sponsors</title><link>https://heroes.youthsteaminitiative.org/sponsors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://heroes.youthsteaminitiative.org/sponsors/</guid><description>&lt;p&gt;We invite businesses, families, and community partners to support this youth-led public celebration honoring the people and groups whose everyday contributions strengthen Lexington through art, technology, storytelling, and civic pride.&lt;/p&gt;
+&lt;br&gt;
+&lt;h2 id="our-sponsors"&gt;Our Sponsors&lt;/h2&gt;
+&lt;h3 id="-gold-sponsors"&gt;🥇 Gold Sponsors&lt;/h3&gt;
+&lt;div class="flex flex-wrap justify-center mt3 mb4"&gt;
+ &lt;div class="w-50-l w-100 pa3 tc"&gt;
+ &lt;img src="https://heroes.youthsteaminitiative.org/images/caellia.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Caellia Logo" /&gt;
+ &lt;h3 class="f4 fw6 mt2 mb1"&gt;Caellia&lt;/h3&gt;
+ &lt;a href="https://caellia.com/" target="_blank" class="f5 link dim dark-gray"&gt;Learn more →&lt;/a&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id="-silver-sponsors"&gt;🥈 Silver Sponsors&lt;/h3&gt;
+&lt;div class="flex flex-wrap justify-center mt3 mb4"&gt;
+ &lt;div class="w-50-l w-100 pa3 tc"&gt;
+ &lt;img src="https://heroes.youthsteaminitiative.org/images/CultureBridge.png" style="width:160px; height:160px; object-fit:cover; border-radius:30%;" alt="Cultural Bridge Logo" /&gt;
+ &lt;h3 class="f4 fw6 mt2 mb1"&gt;Cultural Bridge Youth Program&lt;/h3&gt;
+ &lt;a href="https://caal-ma.org/youthcouncil/culture-bridge/" target="_blank" class="f5 link dim dark-gray"&gt;Learn more →&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;div class="w-50-l w-100 pa3 tc"&gt;
+ &lt;img src="https://heroes.youthsteaminitiative.org/images/BejingDining.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Beijing Chinese Dining Logo" /&gt;
+ &lt;h3 class="f4 fw6 mt2 mb1"&gt;Beijing Chinese Dining&lt;/h3&gt;
+ &lt;a href="https://www.beijingchinesedining.com/" target="_blank" class="f5 link dim dark-gray"&gt;Learn more →&lt;/a&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3 id="-bronze-sponsors"&gt;🥉 Bronze Sponsors&lt;/h3&gt;
+&lt;div class="flex flex-wrap justify-center mt3 mb4"&gt;
+ &lt;div class="w-50-l w-100 pa3 tc"&gt;
+ &lt;img src="https://heroes.youthsteaminitiative.org/images/robot.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Robotfun Academy Logo" /&gt;
+ &lt;h3 class="f4 fw6 mt2 mb1"&gt;Robotfun Academy&lt;/h3&gt;
+ &lt;a href="https://www.robotfunacademy.com/" target="_blank" class="f5 link dim dark-gray"&gt;Learn more →&lt;/a&gt;
+ &lt;/div&gt;
+ &lt;div class="w-50-l w-100 pa3 tc"&gt;
+ &lt;img src="https://heroes.youthsteaminitiative.org/images/shoplexington.jpg" style="width:240px; height:160px; object-fit:cover; border-radius:20%;" alt="Shop Lexington Logo" /&gt;
+ &lt;h3 class="f4 fw6 mt2 mb1"&gt;Shop Lexington&lt;/h3&gt;
+ &lt;a href="https://shoplexingtonfirst.com/" target="_blank" class="f5 link dim dark-gray"&gt;Learn more →&lt;/a&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;h2 id="sponsorship-levels"&gt;Sponsorship Levels&lt;/h2&gt;
+&lt;div class="flex flex-wrap justify-center mt3 mb4"&gt;
+ &lt;div class="w-50-l w-100 pa3"&gt;
+ &lt;div class="ba b--light-silver pa3 br2 h-100"&gt;
+ &lt;h3 class="f3 fw7 mt0" style="color:#CFB53B;"&gt;🥇 Gold: $1,000+&lt;/h3&gt;
+ &lt;ul class="f5 lh-copy"&gt;
+ &lt;li&gt;Major logo placement on website, flyers, and event signage&lt;/li&gt;
+ &lt;li&gt;Exclusive 30-second display during the projection mapping show&lt;/li&gt;
+ &lt;li&gt;Featured website placement with QR code and shout-outs during opening remarks.&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="w-50-l w-100 pa3"&gt;
+ &lt;div class="ba b--light-silver pa3 br2 h-100"&gt;
+ &lt;h3 class="f3 fw7 mt0" style="color:#A8A9AD;"&gt;🥈 Silver: $500-999&lt;/h3&gt;
+ &lt;ul class="f5 lh-copy"&gt;
+ &lt;li&gt;Logo included on the event website and physical signage&lt;/li&gt;
+ &lt;li&gt;Formal recognition during the opening remarks&lt;/li&gt;
+ &lt;li&gt;Name and link listed on the official sponsor page&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="w-50-l w-100 pa3"&gt;
+ &lt;div class="ba b--light-silver pa3 br2 h-100"&gt;
+ &lt;h3 class="f3 fw7 mt0" style="color:#b5a642;"&gt;🥉 Bronze: $100-499&lt;/h3&gt;
+ &lt;ul class="f5 lh-copy"&gt;
+ &lt;li&gt;Name listed in the supporter appreciation section and sponsor page&lt;/li&gt;
+ &lt;li&gt;Inclusion in the collective public thank-you recognition&lt;/li&gt;
+ &lt;/ul&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+&lt;/div&gt;
+&lt;br&gt;
+&lt;h2 id="why-sponsor"&gt;Why Sponsor?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Support youth education and innovation in STEAM&lt;/li&gt;
+&lt;li&gt;Increase visibility within the Lexington community&lt;/li&gt;
+&lt;li&gt;Align your brand with creativity, leadership, and service&lt;/li&gt;
+&lt;li&gt;Celebrate the citizens who make Lexington strong&lt;/li&gt;
+&lt;/ul&gt;
+&lt;br&gt;
+&lt;h2 id="grants--funding"&gt;Grants &amp;amp; Funding&lt;/h2&gt;
+&lt;div class="tc mt4 mb4"&gt;
+ &lt;img src="https://heroes.youthsteaminitiative.org/images/CEL_10Years_Final.png" style="max-width:200px;" alt="Community Endowment of Lexington" /&gt;
+ &lt;h3 class="f4 fw6 mt3"&gt;Community Endowment of Lexington&lt;/h3&gt;
+ &lt;p class="f5 lh-copy measure center mid-gray"&gt;"The Community Endowment of Lexington enhances the quality of life for Lexington citizens. CEL awards grants to nonprofits and town agencies working in the areas of health and human services, arts and culture, the environment, and community building."&lt;/p&gt;</description></item><item><title>Visitor Stats</title><link>https://heroes.youthsteaminitiative.org/visitors/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://heroes.youthsteaminitiative.org/visitors/</guid><description>&lt;div class="tc mt4 mb4"&gt;
+ &lt;h2 class="f3 fw6"&gt;Live Visitor Statistics&lt;/h2&gt;
+ &lt;p class="f5 mid-gray"&gt;See who's been visiting our site in real time.&lt;/p&gt;
+ &lt;div class="mt4"&gt;
+ &lt;a href="https://heroes.goatcounter.com" target="_blank" class="f5 link dim dark-gray"&gt;
+ View full stats dashboard →
+ &lt;/a&gt;
+ &lt;/div&gt;
+ &lt;div class="mt4"&gt;
+ &lt;img src="https://heroes.goatcounter.com/counter//.svg" alt="Visitor Count" /&gt;
+ &lt;/div&gt;
+&lt;/div&gt;</description></item></channel></rss>
