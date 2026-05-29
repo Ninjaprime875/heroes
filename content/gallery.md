@@ -174,7 +174,7 @@ const photos = [
   { src: "/images/gallery/CALex Youth Book Club  - Yuning Song 1.jpg", caption: "The first elementary student-run club in town, creating their own Jeopardy questions, games, exploring reading and science, and donating to the community center every Thanksgiving." },
   { src: "/images/gallery/CaLexLunarNewYear2026 - Houze Xu 1.jpg", caption: "Caption placeholder" },
   { src: "/images/gallery/CaLexLunarNewYear2026 2 - Houze Xu 2.jpg", caption: "Caption placeholder" },
-  { src: "/images/gallery/CALL- Culture Bridge - Anne Zhang 1.jpg", caption: "Caption placeholder" },
+  { src: "/images/gallery/culturebridge-annezhang.jpg", caption: "Caption placeholder" },
   { src: "/images/gallery/camp counselrs - Cristina Burwell 9.jpg", caption: "Caption placeholder" },
   { src: "/images/gallery/citizen heroes - Mark Manasas 1.jpg", caption: "Caption placeholder" },
   { src: "/images/gallery/Clarke green team - Yiling Wang 4.png", caption: "Caption placeholder" },
