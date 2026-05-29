@@ -18,6 +18,11 @@ We invite businesses, families, and community partners to support this youth-led
     <h3 class="f4 fw6 mt2 mb1">Caellia</h3>
     <a href="https://caellia.com/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
   </div>
+  <div class="w-50-l w-100 pa3 tc">
+    <img src="/images/pursue.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Pursue Beyond Education Logo" />
+    <h3 class="f4 fw6 mt2 mb1">Pursue Beyond Education</h3>
+    <a href="https://www.pursuebeyond.us/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
+  </div>
 </div>
 
 ---
