@@ -269,6 +269,11 @@ featured_image: "/images/SettingUp.png"
     <h3 class="f4 fw6 mt3 mb1">Angelina Ding</h3>
     <p class="f5 mid-gray">Website Developer</p>
   </div>
+  <div class="w-third-l w-100 pa3 tc">
+    <img src="/images/evanliu.png" style="width:120px; height:120px; object-fit:cover; border-radius:50%;" alt="Evan Liu" />
+    <h3 class="f4 fw6 mt3 mb1">Evan Liu</h3>
+    <p class="f5 mid-gray">Website Developer</p>
+  </div>
 
 </div>
 
