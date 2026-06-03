@@ -4,6 +4,22 @@ description: "Citizen Heroes of Lexington Projection Mapping Event"
 featured_image: "/images/towncomittees.png"
 ---
 
+## Event Recap
+The May 30 projection mapping celebration at Depot Square was a joyful evening for the whole community. More than 200 people came together to enjoy a glowing visual story made from 108 heartfelt photos contributed by 32 local community partners. LexMedia captured the excitement as families, neighbors, and organization members gathered to watch their images bloom across the beautiful façade of the History Museum.
+
+The atmosphere was immersive. Laughter, applause, and cheering filled the night as audience members recognized their own organizations in the projections. It was wonderful to see community members celebrating one another, sharing pride, and inspiring each other through the power of art and storytelling. We’re already looking forward to future projection mappings that bring Lexington together again.
+
+### Watch the Event Video
+Relive the best moments and experience the event on YouTube:
+[YouTube Link](https://www.youtube.com/watch?v=kAssCkAR_Nw)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kAssCkAR_Nw?si=HnVsfdDbzoime6yu&amp;controls=0&amp;start=543" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<br>
+
+---
+
+<br>
+
 ## About the Event
 
 On May 30, students from the [Youth STEAM Initiative](https://youthsteaminitiative.org) will present "Illuminate Heritage: Lightscapes of Lexington," an immersive projection mapping experience that transforms local architecture into a living story of community at the Lexington Depot from 8:00 PM to 9:00 PM.
