@@ -172,7 +172,7 @@ const photos = [
   { src: "/images/gallery/CAAL - Qian Hu 4.jpg", caption: "The dance of Mulan tells the story of a young girl who sacrificed her youth to help her father in the army, a story of courage." },
   { src: "/images/gallery/CAAL - Qian Hu 5.jpg", caption: "The debut of a Chinese folk waist drum performance at the Lexington 2026 Patriots Day Parade, spending much time and effort to prepare." },
   { src: "/images/gallery/CALex Youth Book Club  - Yuning Song 1.jpg", caption: "The first elementary student-run club in town, creating their own Jeopardy questions, games, exploring reading and science, and donating to the community center every Thanksgiving." },
-  { src: "/images/gallery/CaLexLunarNewYear2026 - Houze Xu 1.jpg", caption: "Caption placeholder" },
+  { src: "/images/gallery/CaLexLunarNewYear2026 - Houze Xu 1.jpg", caption: "Volunteers, performers, and special guests gather for a group photo at the conclusion of the 2026 Lunar New Year Celebration. The annual gala featured cultural performances and community festivities, marking another successful year of celebrating the Lunar New Year together." },
   { src: "/images/gallery/CaLexLunarNewYear2026 2 - Houze Xu 2.jpg", caption: "Caption placeholder" },
   { src: "/images/gallery/culturebridge-annezhang.jpg", caption: "Caption placeholder" },
   { src: "/images/gallery/camp counselrs - Cristina Burwell 9.jpg", caption: "Caption placeholder" },
