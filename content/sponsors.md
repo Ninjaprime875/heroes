@@ -10,18 +10,6 @@ We invite businesses, families, and community partners to support this youth-led
 
 ## Our Sponsors
 
-### 📆 Event Sponsor
-
-<div class="flex flex-wrap justify-center mt3 mb4">
-  <div class="w-50-l w-100 pa3 tc">
-    <img src="/images/LexingtonHistoryMuseums.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Lexington History Museums Logo" />
-    <h3 class="f4 fw6 mt2 mb1">Lexington History Museums</h3>
-    <a href="https://www.lexingtonhistory.org/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
-  </div>
-</div>
-
----
-
 ### 🥇 Gold Sponsors
 
 <div class="flex flex-wrap justify-center mt3 mb4">

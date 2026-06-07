@@ -5,13 +5,16 @@ featured_image: "/images/towncomittees.png"
 ---
 
 ## Event Recap
+
 The May 30 projection mapping celebration at Depot Square was a joyful evening for the whole community. More than 200 people came together to enjoy a glowing visual story made from 108 heartfelt photos contributed by 32 local community partners. LexMedia captured the excitement as families, neighbors, and organization members gathered to watch their images bloom across the beautiful façade of the History Museum.
 
 The atmosphere was immersive. Laughter, applause, and cheering filled the night as audience members recognized their own organizations in the projections. It was wonderful to see community members celebrating one another, sharing pride, and inspiring each other through the power of art and storytelling. We’re already looking forward to future projection mappings that bring Lexington together again.
 
 ### Watch the Event Video
+
 Relive the best moments and experience the event on YouTube:
 [YouTube Link](https://www.youtube.com/watch?v=kAssCkAR_Nw)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kAssCkAR_Nw?si=HnVsfdDbzoime6yu&amp;controls=0&amp;start=543" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
@@ -47,6 +50,7 @@ _It starts with a choice. And the next step could be yours._
 ---
 
 ### Event Flyer
+
 <img src = "/images/poster7.png" alt = "Event flyer" style="width: 400px"/>
 
 ---
@@ -66,6 +70,11 @@ _It starts with a choice. And the next step could be yours._
 ## Community Partners
 
 <div class="flex flex-wrap justify-center mt3 mb4">
+  <div class="w-50-l w-100 pa3 tc">
+    <img src="/images/LexingtonHistoryMuseums.jpg" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Lexington History Museums Logo" />
+    <h3 class="f4 fw6 mt2 mb1">Lexington History Museums</h3>
+    <a href="https://www.lexingtonhistory.org/" target="_blank" class="f5 link dim dark-gray">Learn more →</a>
+  </div>
   <div class="w-50-l w-100 pa3 tc">
     <img src="/images/luckieartstudio.png" style="width:160px; height:160px; object-fit:cover; border-radius:50%;" alt="Luckie Art Studio" />
     <h3 class="f4 fw6 mt2 mb1">Luckie Art Studio</h3>
