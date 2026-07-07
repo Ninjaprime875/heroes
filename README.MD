@@ -1,4 +1,4 @@
-# Heroes
+# Illuminate Heritage Website Repository
 
 ## Clone the repository
 
